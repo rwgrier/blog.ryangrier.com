@@ -1,0 +1,20 @@
+---
+layout: post
+title: HomePod
+date: '2018-04-07 01:00:00'
+tags:
+- homepod
+---
+
+I had mentioned in a [previous post]( __GHOST_URL__ /alexa-vs-google/) that we’ve been playing with personal assistants like Google Home and Alexa. I also mentioned that I would probably be getting a [HomePod](https://www.apple.com/homepod/).
+
+I got one. About a month ago.
+
+I really like HomePod. However, my use case for the HomePod is different than the Google Home products. I use it in my home office as a speaker. All I really ask it to do is play music and it sounds great.
+
+I should probably ask Siri (HomePod) to do things other than play certain music. You know, for science. But I just haven’t yet.
+
+My one gripe with having so many Siri devices in a small area is that whenever I would say “Hey Siri …” multiple devices would light up. Sometimes my Apple Watch or iPhone would respond. I fixed the issue (I think) by turning off the “Listen for Her Siri” option in settings (Settings \> Siri & Search). It’s been working much better since then.
+
+So far, I’m loving HomePod. It makes a great speaker for my office.
+

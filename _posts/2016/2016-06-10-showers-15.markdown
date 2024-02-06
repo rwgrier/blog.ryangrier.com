@@ -1,0 +1,29 @@
+---
+layout: post
+title: Showers 1.5
+date: '2016-06-10 00:47:14'
+tags:
+- ios
+- app-development
+---
+
+It’s been a while since I’ve published updates to any of my personal apps (side projects). I’ve finally done it. [Showers 1.5](https://itunes.apple.com/us/app/showers-white-noise-generator/id842747465?ls=1&mt=8) has shipped. Yay!
+
+## What’s Changed?
+
+The most notable change is the removal of the Apple Watch app. I never used it. I don’t think anyone else did either. If I don’t use something in the app and I don’t suspect (or know) others aren’t using it either, I’ll remove it. This is one of those cases.
+
+I’ve fixed a few crashing issues around the Menu/Settings screen. This was a total miss on my part. The crashes have been happening for a while, I just hadn’t noticed them until recently.
+
+I’ve (re)added [Fabric](https://fabric.io/) ([Crashlytics](https://fabric.io/kits/ios/crashlytics)) support. See the paragraph above, that should be explanation enough. If the app is crashing, I should know about it and fix it. This change will help here.
+
+There was also an issue with the sleep timer. It should be fixed now. The sleep timer should act like you expect it to.
+
+Internally, I’ve updated the Swift code to Swift 2.2. I’ve also done a number of minor refactoring and code cleanup. But that’s really to be expected when I make changes like this.
+
+## What’s Next?
+
+I don’t have any large features planned. I’d like to continue supporting Showers because I really like it. I’d like to add more thunder sounds, but outside of that, not much. Maybe something at [WWDC](https://developer.apple.com/wwdc/) this year will change that.
+
+Please enjoy the app and the update. I hope to have more updates to announce very soon.
+

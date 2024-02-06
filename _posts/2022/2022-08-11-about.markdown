@@ -1,0 +1,30 @@
+---
+layout: post
+title: About me
+date: '2022-08-11 18:25:24'
+---
+
+Hello there. I'm Ryan. This is my website.
+
+I’m not great at writing, and I use this site/blog as a way to practice. The posts here include a range of topics including video games, brewing beer, books, etc.
+
+I am a professional software engineer. Furthermore, I have a Master’s Degree in Software Engineering and have been programming professionally for over 20 years.
+
+I started out as a Java developer writing J2EE services for companies like Appligent, Siemens, and Comcast.
+
+Since 2010, I've focused on mobile engineering and iOS specifically. I’ve been writen mobile apps for [NAVTEQ](https://en.wikipedia.org/wiki/Navteq) (Nokia), [Barclaycard US](https://cards.barclaycardus.com/), [Comcast Interactive Media](https://en.wikipedia.org/wiki/Comcast_Interactive_Media), [Warner Bros. Digital Labs](https://www.linkedin.com/company/warnerbrosdigitallabs), and [Slice](https://slicelife.com/). I’ve led high-profile iOS projects for both Comcast and Warner Bros. Digital Labs including Xfinity Home, DC Universe, and Boomerang. The iOS App Store has featured both DC Universe and Boomerang multiple times.
+
+I learned iOS development on my own. I continue to learn every day. I run multiple side projects so that I can continue to learn both mobile and server-side technologies.
+
+## Patents
+
+[US11424930B2](https://patents.google.com/patent/US20130318592) - Systems and methods for providing account information
+
+## Social
+
+You can follow me or contact me on any of these social networks. I’m not super active on any of them. But occasionally I’ll post things there.
+
+- [Mastodon](https://mastodon.social/@rwgrier)
+- [GitHub](https://www.github.com/rwgrier)
+- [LinkedIn](https://www.linkedin.com/in/rwgrier/)
+- [Medium](https://rwgrier.medium.com)
