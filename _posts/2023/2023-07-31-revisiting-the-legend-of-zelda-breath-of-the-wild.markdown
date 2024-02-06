@@ -6,7 +6,7 @@ tags:
 - video-games
 ---
 
-Almost three years ago, I had written a post about [The Legend of Zelda: Breath of the Wild]( __GHOST_URL__ /the-legend-of-zelda-breath-of-the-wild/). At the time, I had written that I didn't like Breath of the Wild despite attempting the game on three different occasions. I couldn't get into it.
+Almost three years ago, I had written a post about [The Legend of Zelda: Breath of the Wild](/2020/08/20/the-legend-of-zelda-breath-of-the-wild/). At the time, I had written that I didn't like Breath of the Wild despite attempting the game on three different occasions. I couldn't get into it.
 
 Earlier this year, [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/) came out. Just before Tears of the Kingdom came out, I decided to give [The Legend of Zelda: Breath of the Wild](https://zelda.nintendo.com/breath-of-the-wild/) another chance.
 
@@ -16,7 +16,7 @@ I started the game over from the beginning, again. This past Friday, I finished 
 
 <div class="py-3">
 	<div class="card shadow-sm">
-		<img class="img-fluid" src="/public/images/2023-botw/botw.jpg">
+		<img class="img-fluid" src="/public/images/2023/revisiting-the-legend-of-zelda-breath-of-the-wild/botw.jpg">
 		<div class="card-body mx-auto">
 			<small>My BOTW Stats according to the loading screen</small>
 		</div>
@@ -33,7 +33,7 @@ As a caveat, I did cheat things a bit. I used a lot of [Amiibo](https://www.nint
 
 <div class="py-3">
 	<div class="card shadow-sm">
-		<img class="img-fluid" src="/public/images/2023-botw/botw-stats.jpg">
+		<img class="img-fluid" src="/public/images/2023/revisiting-the-legend-of-zelda-breath-of-the-wild/botw-playtime.jpg">
 		<div class="card-body mx-auto">
 			<small>My playing time for Breath of the Wild: 75 hours</small>
 		</div>

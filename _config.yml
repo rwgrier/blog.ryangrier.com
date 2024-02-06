@@ -8,7 +8,7 @@ url: https://blog.ryangrier.com
 
 # Build settings
 # theme: minima
-paginate: 5
+paginate: 500
 paginate_path: /:num/
 plugins:             
   - jekyll-paginate
