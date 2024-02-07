@@ -24,7 +24,14 @@ Work has been busy the entire time. I’ve been a remote employee for a few year
 
 In January, I took over as the iOS Tech Lead for [DC Universe](https://apps.apple.com/us/app/dc-universe/id1329018000). I’ve been keeping that position since then. That role has been transitioning into the iOS tech lead for [DC Universe Infinite](https://www.dcuniverse.com/joininfinite), which is expected to launch in January.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/dc-app-of-day.jpeg" class="kg-image" alt="DC Universe: App of the Day" loading="lazy" width="1125" height="1323"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2020/2020-a-look-back/dc-app-of-day.jpeg">
+		<div class="card-body mx-auto">
+			<small>DC Universe: App of the Day</small>
+		</div>
+	</div>
+</div>
 
 Earlier this year, DC Universe was [featured](https://apps.apple.com/us/story/id1437315987) in the iOS App Store. It’s happened a few times before, but it never gets old to see.
 
@@ -32,7 +39,14 @@ Later in this year, I also became the iOS Tech Lead on [Boomerang](https://apps.
 
 Boomerang has also been [featured](https://apps.apple.com/us/story/id1454561068) [multiple times](https://apps.apple.com/us/story/id1477638429) in the iOS App Store this year. I’ll be honest, it never gets old seeing this. And it’s always a pleasant surprise to see.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/boomerang-featured-combo.jpg" class="kg-image" alt="Boomerang: Featured" loading="lazy" width="2250" height="1412"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2020/2020-a-look-back/boomerang-featured-combo.jpg">
+		<div class="card-body mx-auto">
+			<small>Boomerang: Featured</small>
+		</div>
+	</div>
+</div>
 
 With leading up two different properties at work, it’s made for a super busy year. Sometimes too busy. I’m currently on a well earned vacation for the remainder of 2020. I have a feeling that next year will be another busy year, so I’m getting some rest while I can.
 

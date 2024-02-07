@@ -7,7 +7,7 @@ tags:
 - app-development
 ---
 
-Over a year ago, I [removed MyCntdwn from the App Store]( __GHOST_URL__ /sad-day/). But I’m not sure that’s the end of the story for MyCntdwn.
+Over a year ago, I [removed MyCntdwn from the App Store](/2019/10/22/sad-day/). But I’m not sure that’s the end of the story for MyCntdwn.
 
 I’ve been working on an update to MyCntdwn for a long time now. I’ve had multiple starts and stops. This _could_ just be another false start in the lifecycle of MyCntdwn. I’m not really sure just yet.
 

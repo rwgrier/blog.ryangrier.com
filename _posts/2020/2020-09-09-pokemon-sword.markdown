@@ -14,7 +14,14 @@ I have purchased both of the DLC expansion packs ([The Isle of Armor](https://en
 
 The game has had quite a bit of [backlash](https://kotaku.com/why-pokemon-fans-are-so-mad-about-sword-and-shield-1836226219) against it because the developers did not include all of the prior Pokémon in the game (like other games have done). This wasn’t a huge issue for me. I’ve only ever tried to complete a Pokédex once and it just wasn’t worth it to me. It would be nice for them to have included all of the prior Pokémon, only so that I can transfer them to the game from Pokémon [Home](https://home.pokemon.com/en-us/)/[Bank](https://www.pokemon.com/us/pokemon-video-games/pokemon-bank/).
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/pokemon-sword.jpg" class="kg-image" alt="My Pokemon Sword Trainer Card" loading="lazy" width="1280" height="720"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2020/pokemon-sword/pokemon-sword.jpg">
+		<div class="card-body mx-auto">
+			<small>My Pokemon Sword Trainer Card</small>
+		</div>
+	</div>
+</div>
 
 I’m relatively new to Pokemon games. I’ve only been playing them the last few years. I’m not some diehard fan who’s been playing since the first game. I do enjoy playing them. Besides this game, other Pokémon games I’ve played through include: [Pokémon Black](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Black_and_White), [Pokémon Black 2](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Black_2_and_White_2), [Pokémon X](https://en.wikipedia.org/wiki/Pok%C3%A9mon_X_and_Y), and [Pokémon Alpha Sapphire](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Omega_Ruby_and_Alpha_Sapphire). It’s really not a lot.
 

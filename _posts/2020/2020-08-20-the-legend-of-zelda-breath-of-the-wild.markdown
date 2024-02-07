@@ -10,7 +10,14 @@ tags:
 
 I’ve said [this before](https://twitter.com/rwgrier/status/1265435231240302592?s=20), and I’ll say it again. I just don’t like The Legend of Zelda: Breath of the Wild. I’ve tried playing it on three separate occasions. Each time, I’ve tried and failed to get into it.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/zelda-botw.jpg" class="kg-image" alt="As far as I got in The Legend of Zelda: Breath of the Wild" loading="lazy" width="1280" height="720"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2020/the-legend-of-zelda-breath-of-the-wild/botw.jpg">
+		<div class="card-body mx-auto">
+			<small>As far as I got in The Legend of Zelda: Breath of the Wild</small>
+		</div>
+	</div>
+</div>
 
 This (above) was as far as I got in The Legend of Zelda: Breath of the Wild.
 

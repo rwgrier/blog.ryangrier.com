@@ -6,7 +6,7 @@ tags:
 - video-games
 ---
 
-This is another post about Hearthstone and beating another Solo Adventure. I’ve done these sort of posts before for various solo adventures ([One Night in Karazhan]( __GHOST_URL__ /hearthstone-one-night-in-karazhan-heroic/), [Blackrock Mountain]( __GHOST_URL__ /hearthstone-blackrock-mountain-heroic/), [The League of Explorers]( __GHOST_URL__ /hearthstone-the-league-of-explorers-heroic/) & [Curse of Naxxramas]( __GHOST_URL__ /hearthstone-curse-of-naxxramas-heroic/)). This isn’t the most recent adventure, I’m really behind on completing these.
+This is another post about Hearthstone and beating another Solo Adventure. I’ve done these sort of posts before for various solo adventures ([One Night in Karazhan](/2016/10/21/hearthstone-one-night-in-karazhan-heroic/), [Blackrock Mountain](/2016/04/24/hearthstone-blackrock-mountain-heroic/), [The League of Explorers](/2016/04/22/hearthstone-the-league-of-explorers-heroic/) & [Curse of Naxxramas](/2016/04/03/hearthstone-curse-of-naxxramas-heroic/)). This isn’t the most recent adventure, I’m really behind on completing these.
 
 [Knights of the Frozen Throne](https://hearthstone.gamepedia.com/Knights_of_the_Frozen_Throne) was a little different than other adventures. Instead of beating the entire adventure on Heroic, you need to beat the final boss (The Lich King) with every class in the game.
 
@@ -14,7 +14,14 @@ It took me a while to find the right decks for all of these classes. All of the 
 
 My reward for beating this adventure is a [Prince Arthas](https://hearthstone.gamepedia.com/Prince_Arthas) hero skin for the [Paladin](https://hearthstone.gamepedia.com/Paladin) class (seen below).
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/prince-arthas-hero.png" class="kg-image" alt="Knights of the Frozen Throne Reward Skin" loading="lazy" width="2436" height="1125"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2020/hearthstone-knights-of-the-frozen-throne/reward-skin.png">
+		<div class="card-body mx-auto">
+			<small>Knights of the Frozen Throne Reward Skin</small>
+		</div>
+	</div>
+</div>
 
 Below are the decks that I used to beat the Lich King with each class in the game (except [Demon Hunter](https://hearthstone.gamepedia.com/Demon_Hunter)).
 
@@ -25,7 +32,7 @@ Below are the decks that I used to beat the Lich King with each class in the gam
 - Mage: [The Lich King Echo Giants Mage Deck](https://www.icy-veins.com/hearthstone/the-lich-king-echo-giants-mage-deck)
 - Paladin: [FTP Paladin - Lich King Solo Mission](https://www.hearthpwn.com/decks/1286704-ftp-paladin-lich-king-solo-mission)
 - Priest: [Lich king (one shot)(Big Priest)](https://www.hearthpwn.com/decks/917277-lich-king-one-shot-big-priest)
-- Rogue: [Standard|Lich King|Mecha’thun without Doomsayer…](https://www.hearthpwn.com/decks/1311245-standard-lich-king-mechathun-without-doomsayer)
+- Rogue: [Standard\|Lich King\|Mecha’thun without Doomsayer…](https://www.hearthpwn.com/decks/1311245-standard-lich-king-mechathun-without-doomsayer)
 - Shaman: [Lich King Shaman Mecha’thun Deck](https://www.hearthpwn.com/decks/1328963-lich-king-shaman-mechathun-deck)
 - Warlock: [Lich King Warlock Mecha’thun Deck](https://www.hearthpwn.com/decks/1328876-lich-king-warlock-mechathun-deck)
 - Warrior: [Lich King - Warrior Mecha’thun Deck](https://www.hearthpwn.com/decks/1328798-lich-king-warrior-mechathun-deck)
