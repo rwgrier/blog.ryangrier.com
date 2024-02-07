@@ -6,7 +6,7 @@ tags:
 - vacation
 ---
 
-This is the final blog post about our [trip to Florida]( __GHOST_URL__ /trip-to-florida/) from January. This post is all about our trip to [Walt Disney World](https://disneyworld.disney.go.com/).
+This is the final blog post about our [trip to Florida](/2022/02/04/trip-to-florida/) from January. This post is all about our trip to [Walt Disney World](https://disneyworld.disney.go.com/).
 
 I know it’s March, I’ve been slow to write these.
 
@@ -59,7 +59,14 @@ Mobile ordering had the same cell reception issues that settings up FastPasses d
 The lines at food and drink places throughout the park were also insanely long. Trying to grab a water or soda while walking through the park was a pain. We ended up grabbing a few extra bottles of water at lunch or dinner and threw them in our backpack.
 
 ## Hollywood Studios
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://images.unsplash.com/photo-1578374173696-f8a2d504b144?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2832&amp;q=80" class="kg-image" alt="Photo by Rod Long" loading="lazy"><figcaption>Photo by <a href="https://unsplash.com/photos/XOnw1SINov0">Rod Long</a></figcaption></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="https://images.unsplash.com/photo-1578374173696-f8a2d504b144?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2832&amp;q=80">
+		<div class="card-body mx-auto">
+			<small>Photo by <a href="https://unsplash.com/photos/XOnw1SINov0">Rod Long</a></small>
+		</div>
+	</div>
+</div>
 
 [Hollywood Studios](https://disneyworld.disney.go.com/destinations/hollywood-studios/) may be my favorite park at Disney World. I’ve always loved his park, even back when it was Disney MGM Studios.
 
@@ -76,7 +83,14 @@ We rode every ride we wanted to and even rode the Millennium Falcon and Tower of
 Hollywood Studios is a great park.
 
 ## EPCOT
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://images.unsplash.com/photo-1616897390105-0d9fc21a0745?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1771&amp;q=80" class="kg-image" alt="Photo by Greg C" loading="lazy"><figcaption>Photo by <a href="https://unsplash.com/photos/mM3raBaKT18">Greg C</a></figcaption></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="https://images.unsplash.com/photo-1616897390105-0d9fc21a0745?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1771&amp;q=80">
+		<div class="card-body mx-auto">
+			<small>Photo by <a href="https://unsplash.com/photos/mM3raBaKT18">Greg C</a></small>
+		</div>
+	</div>
+</div>
 
 [EPCOT](https://disneyworld.disney.go.com/destinations/epcot/) used to be another of my favorite parks. I was disappointed this time.
 
@@ -95,7 +109,15 @@ We did everything we wanted to in EPCOT, went back to the resort to relax and th
 EPCOT wasn’t as great as I remember it. Maybe it was just too crowded. But we did have a good time there.
 
 ## Magic Kingdom
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://images.unsplash.com/photo-1524008279394-3aed4643b30b?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2874&amp;q=80" class="kg-image" alt="Photo by Jayme McColgan" loading="lazy"><figcaption>Photo by <a href="https://unsplash.com/photos/IP1rSwr8R6o">Jayme McColgan</a></figcaption></figure>
+
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="https://images.unsplash.com/photo-1524008279394-3aed4643b30b?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2874&amp;q=80">
+		<div class="card-body mx-auto">
+			<small>Photo by <a href="https://unsplash.com/photos/IP1rSwr8R6o">Jayme McColgan</a></small>
+		</div>
+	</div>
+</div>
 
 Honestly, [Magic Kingdom](https://disneyworld.disney.go.com/destinations/magic-kingdom/) has always been my least favorite park at Disney World. This time was no exception. Of the 3 parks we visited, Magic Kingdom was my least favorite.
 

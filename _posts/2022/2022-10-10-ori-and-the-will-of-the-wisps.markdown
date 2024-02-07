@@ -14,8 +14,6 @@ Ori and the Will of the Wisps is a [Metroidvania](https://en.wikipedia.org/wiki/
 
 This game was absolutely delightful. The graphics and soundtrack were amazing. The platforming was spot on. The game wasn't too tricky, and intriguing enough to keep my interest.
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/10/IMG_0660.JPG" class="kg-image" alt loading="lazy" width="1280" height="720"><figcaption>My collectibles from my playthrough. </figcaption></figure>
-
 I played through the game on easy (I'm bad at video games). I finished the game with 75% completion in just over 15 hours. I did not get 100% of the items. I've thought about going back through and collecting everything else, but I probably won't. I just have too many games to play. &nbsp;
 
 I know this game was released in 2020, but it's my favorite game of 2022 so far.

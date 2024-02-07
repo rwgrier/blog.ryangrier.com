@@ -14,7 +14,14 @@ These games are beautiful. The soundtracks are great too. I think Ustwo really n
 
 Each level is almost the perfect length. The levels are not too difficult either. I was able to complete a level or two quickly while waiting around. If I wanted to, I could binge multiple levels quickly.
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/10/screenshot_2022-04-13_08-38-24.png" class="kg-image" alt loading="lazy" width="1920" height="1080"><figcaption>Screenshot from Monument Valley 2 Panoramic Edition</figcaption></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2022/revisiting-monument-valley-1-2/screenshot.png">
+		<div class="card-body mx-auto">
+			<small>Screenshot from Monument Valley 2 Panoramic Edition</small>
+		</div>
+	</div>
+</div>
 
 There were two expansion packs released for Monument Valley. Those were "Forgotten Shores" and "Ida's Dream". "Ida's Dream" was a limited-time promotion part of Apple's [Apps for Red initiative](https://www.redmondpie.com/apple-launches-apps-for-red-section-in-app-store-for-world-aids-day/). &nbsp;
 

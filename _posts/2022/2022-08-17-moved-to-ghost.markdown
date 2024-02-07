@@ -40,7 +40,7 @@ I ended up going with Ghost as the blogging software for the site. The editor is
 
 I've been hosting the site and blog using either [Netlify](https://www.netlify.com) or [Github Pages](https://pages.github.com/) for years.
 
-About a year and a half ago, I [moved the site]( __GHOST_URL__ /site-updates-feb-2021/) from Github Pages to Netlify. I forget why I moved. There may have been a Jekyll plugin that I wanted to use that Github Pages didn't support, but I could be wrong.
+About a year and a half ago, I [moved the site](/2021/02/18/site-updates-feb-2021/) from Github Pages to Netlify. I forget why I moved. There may have been a Jekyll plugin that I wanted to use that Github Pages didn't support, but I could be wrong.
 
 Once I decided on using Ghost, I had to decide where to host the site. I looked at a few options. [Ghost Pro](https://ghost.org/pricing/), Do it yourself (DYI) using [DigitalOcean](https://marketplace.digitalocean.com/apps/ghost) and [DigitalPress](https://www.digitalpress.blog).
 
@@ -54,9 +54,9 @@ I'm currently going with DigitalPress. It was easy to set up and get running. I'
 
 ## Domain Name
 
-As a part of all this, I've switched domains from [ryan.grier.co](https://ryan.grier.co) back to [www.ryangrier.com]( __GHOST_URL__ /).
+As a part of all this, I've switched domains from [ryan.grier.co](https://ryan.grier.co) back to [www.ryangrier.com](https://www.ryangrier.com).
 
-I started the site/blog out on [www.ryangrier.com]( __GHOST_URL__ /) in 2001. That's over 20 years ago. It feels nice to get back to using that domain name. I thought [ryan.grier.co](https://ryan.grier.co) was clever, but I had to explain to people that it was .co and not .com.
+I started the site/blog out on [www.ryangrier.com](https://www.ryangrier.com) in 2001. That's over 20 years ago. It feels nice to get back to using that domain name. I thought [ryan.grier.co](https://ryan.grier.co) was clever, but I had to explain to people that it was .co and not .com.
 
 I am now handling the [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) entries through [CloudFlair](https://www.cloudflare.com) (again). They have a lot of nice features and helped me get the domains all pointing back in the right directions.
 

@@ -16,7 +16,14 @@ This update includes the following:
 
 I am calling this the trashcan man release. I’m doing so because of this.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/negative-review.png" class="kg-image" alt="Negative Review" loading="lazy" width="1226" height="688"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2022/beer-style-guidelines-2022-4/bad-review.png">
+		<div class="card-body mx-auto">
+			<small>Negative Review</small>
+		</div>
+	</div>
+</div>
 
 I noticed this review last week. Naming the release trashcan man is my very petty way of saying that I’ve (hopefully) fixed the things in the negative review.
 

@@ -14,7 +14,9 @@ We liked the twists and turns that happened throughout the season. I also like t
 
 The only thing in the show that really threw me for a loop was some of the accents. When I heard certain words, it immediately took me out of the story. "Home" was a harsh word/accent to hear during the show. I don't know if those accents are accurate to the area. Those accents even became part of an [SNL](https://www.nbc.com/saturday-night-live/episodes) skit: &nbsp;
 
-<figure class="kg-card kg-embed-card kg-card-hascaption"><iframe width="200" height="113" src="https://www.youtube.com/embed/qaKZi6p6sxg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Murdur Durdur - SNL"></iframe><figcaption>Murder Durdur - SNL</figcaption></figure>
+<div class="py-3 embed-responsive embed-responsive-16by9 mx-auto">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/qaKZi6p6sxg?si=D2s_gdscq_48iwEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 I was able to see past the accents and enjoy the show. I've heard that there may be a second season.
 

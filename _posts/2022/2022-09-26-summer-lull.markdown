@@ -8,7 +8,7 @@ tags:
 
 I have been in a lull lately.
 
-Last month, I [shipped]( __GHOST_URL__ /beer-style-guidelines-2022-4-2/) the last major version of Beer Style Guidelines. Now I'm taking a break before diving into a new side project.
+Last month, I [shipped](/2022/08/22/beer-style-guidelines-2022-4-2/) the last major version of Beer Style Guidelines. Now I'm taking a break before diving into a new side project.
 
 This should be a much needed break. It usually would be. But we're in the midst of high school soccer season. That means 2-3 games a week with practice every weekday. It's been very busy for us, and even more so for the players.
 

@@ -12,9 +12,16 @@ Metroid: Samus Returns is a game for the Nintendo [2DS](https://en.wikipedia.org
 
 I've had this game since launch, but never completed it. I started it a few times, but always got distracted and never finished it.
 
-When I finished [Ori and the Will of the Wisps]( __GHOST_URL__ /ori-and-the-will-of-the-wisps/), I got the itch to play a proper Metroid game. I decided to start Metroid: Samus Returns over with the intention of completing it. I finished it Wednesday.
+When I finished [Ori and the Will of the Wisps](/2022/10/10/ori-and-the-will-of-the-wisps/), I got the itch to play a proper Metroid game. I decided to start Metroid: Samus Returns over with the intention of completing it. I finished it Wednesday.
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/11/IMG_0856.jpeg" class="kg-image" alt loading="lazy" width="2792" height="2129"><figcaption>Photo of my game stats, before I beat the final boss.</figcaption></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2022/metroid-samus-returns/samus-files.jpg">
+		<div class="card-body mx-auto">
+			<small>Photo of my game stats, before I beat the final boss.</small>
+		</div>
+	</div>
+</div>
 
 I took my time and worked through the game. I didn't get 100% of the collectibles. I also didn't try to speed-run the game. I finished the game at 86.7% in 16:20:35 (after beating the final boss).
 

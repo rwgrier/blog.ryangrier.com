@@ -42,4 +42,3 @@ Both devices are USB-C which is fantastic. As a side note, I've been enjoying my
 
 Having two Kindles is a comfort. I don't need the two Kindles. I'm still not sure if I'll end up keeping both of them. But for now, I'll continue to use one for travel and one for home.
 
-### 

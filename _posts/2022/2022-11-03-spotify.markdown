@@ -11,7 +11,7 @@ I've been an [Apple Music](https://www.apple.com/apple-music/) user since the be
 
 Apple Music (Family) is now included in the [Apple One](https://www.apple.com/apple-one/) subscription we already pay for.
 
-In my office, I have [Sonos](https://www.sonos.com/) speakers [set up]( __GHOST_URL__ /from-homepod-to-sonos/). When I work, I will listen to music. Music helps me focus on my work.
+In my office, I have [Sonos](https://www.sonos.com/) speakers [set up](/2021/10/05/from-homepod-to-sonos/). When I work, I will listen to music. Music helps me focus on my work.
 
 I have one major gripe with Apple Music. Or [Airplay](https://www.apple.com/airplay/). Or my [M1 iPad Pro](https://en.wikipedia.org/wiki/IPad_Pro_(5th_generation)). AirPlay with Apple Music from an iPad to my Sonos setup is unreliable. I usually Airplay music from my iPad Pro to my office speakers. Music will play for a few songs and then stop. The iPad will act like it's playing a song, but there's no sound. To fix it, I'll need to go into Apple Music on my iPad and nudge it to play again. It drives me nuts. I think I've also noticed this issue on my (personal) mac, but not on my iPhone.
 
@@ -29,7 +29,14 @@ I love how I can start playing music on one device and pick it up on another. I 
 
 The Spotify macOS app also has some nice [Easter Eggs](https://meteoritesound.com/spotify-easter-eggs/). I noticed this when I was listening to a [Star Wars](https://www.starwars.com) soundtrack. The song progress bar became a [lightsaber](https://en.wikipedia.org/wiki/Lightsaber)!
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/11/spotify-lightsaber.png" class="kg-image" alt="Song playback controls above a Star Wars Jedi lightsaber indicating progress in song" loading="lazy" width="1156" height="178"><figcaption>Spotify lightsaber progress bar</figcaption></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2022/spotify/progress-bar.png">
+		<div class="card-body mx-auto">
+			<small>Spotify lightsaber progress bar</small>
+		</div>
+	</div>
+</div>
 
 I still default to Apple Music on my iPhone and Apple Watch. I am just used to those experiences. If I'm out for a walk or workout, Apple Music is my go-to.
 

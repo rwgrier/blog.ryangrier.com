@@ -19,9 +19,7 @@ This update includes:
 
 The key feature for this release is [macOS](https://www.apple.com/macos/) support via [Mac Catalyst](https://developer.apple.com/mac-catalyst/).
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/2560x1600bb.png" class="kg-image" alt loading="lazy" width="2560" height="1600"><figcaption>Beer Style Guidelines 2022.5 for macOS</figcaption></figure>
-
-I [had previously]( __GHOST_URL__ /the-future-of-beer-style-guidelines/) mentioned that I planned on adding Mac Catalyst support to Beer Style Guidelines. I did it. It's not perfect, but it runs pretty well on macOS.
+I [had previously](/2022/07/26/the-future-of-beer-style-guidelines/) mentioned that I planned on adding Mac Catalyst support to Beer Style Guidelines. I did it. It's not perfect, but it runs pretty well on macOS.
 
 This is also the final large-scale update I plan on making to Beer Style Guidelines for a while. If there are crashing (or other major) issues I'll fix them.
 

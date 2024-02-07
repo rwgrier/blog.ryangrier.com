@@ -6,7 +6,7 @@ tags:
 - books
 ---
 
-Earlier this month, I mentioned that I had [borrowed a book from the library]( __GHOST_URL__ /borrowed/). I was a little nervous about being able to finish the book within the two weeks I had.
+Earlier this month, I mentioned that I had [borrowed a book from the library](/2022/11/02/borrowed/). I was a little nervous about being able to finish the book within the two weeks I had.
 
 I didn't finish [Billy Summers](https://en.wikipedia.org/wiki/Billy_Summers). I made it about 35% through. Yesterday, I renewed the book for another two weeks. I hope to finish the book this time.
 

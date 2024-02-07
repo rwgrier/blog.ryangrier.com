@@ -38,7 +38,15 @@ They do always put the packages by the front door.
 
 [FedEx](https://www.fedex.com) is our least reliable service. Here's a very common example of a FedEx delivery to our house.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/11/fedex.png" class="kg-image" alt loading="lazy" width="2006" height="888"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2022/delivery-services/fed-ex-status.png">
+		<div class="card-body mx-auto">
+			<small>FedEx Status Example</small>
+		</div>
+	</div>
+</div>
+
 
 The initial delivery date was Monday (Nov 14, 2022). It was then marked as "early" to be delivered on Sunday (Nov 13, 2022). The package wasn't delivered on either of those days. It finally showed up on Tuesday (today, Nov 15, 2022).
 

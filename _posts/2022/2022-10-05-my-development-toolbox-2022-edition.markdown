@@ -6,7 +6,7 @@ tags:
 - app-development
 ---
 
-In 2018, I wrote about [My Development Toolbox]( __GHOST_URL__ /my-development-toolbox/). I thought I would revisit the subject and write an updated post.
+In 2018, I wrote about [My Development Toolbox](/2018/07/31/my-development-toolbox/). I thought I would revisit the subject and write an updated post.
 
 These are tools that I use daily. Some of these have changed since 2018, but many remain the same.
 

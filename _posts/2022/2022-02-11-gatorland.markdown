@@ -6,7 +6,7 @@ tags:
 - vacation
 ---
 
-On our recent [trip to Florida]( __GHOST_URL__ /trip-to-florida/), we went to a few theme parks. We had planned on Universal Studios and Walt Disney World.
+On our recent [trip to Florida](/2022/02/04/trip-to-florida/), we went to a few theme parks. We had planned on Universal Studios and Walt Disney World.
 
 I’m still not sure how we ended up at [Gatorland](https://www.gatorland.com/) one afternoon, but we did. I think my daughter saw a billboard for it one day while driving from the soccer field back to our hotel.
 

@@ -32,6 +32,6 @@ I hope I get a chance to write about the parks we visited soon. If/when I do, Iâ
 
 ## Related posts:
 
-- [Gatorland]( __GHOST_URL__ /gatorland/)
-- [Universal Studios (Flordia)]( __GHOST_URL__ /universal-studios-florida/)
-- [Walt Disney World]( __GHOST_URL__ /walt-disney-world/)
+- [Gatorland](/2022/02/11/gatorland/)
+- [Universal Studios (Flordia)](/2022/02/25/universal-studios-florida/)
+- [Walt Disney World](/2022/03/15/walt-disney-world/)

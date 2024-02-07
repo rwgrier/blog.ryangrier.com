@@ -6,7 +6,7 @@ tags:
 - app-development
 ---
 
-Since I [stopped working on Beer Style Guidelines]( __GHOST_URL__ /the-future-of-beer-style-guidelines/), I have been looking for something to work on.
+Since I [stopped working on Beer Style Guidelines](/2022/07/26/the-future-of-beer-style-guidelines/), I have been looking for something to work on.
 
 I've tinkered with a few things here and there. Nothing really stuck until recently. I just finished a small project. I wrote a small app to download podcast episodes.
 

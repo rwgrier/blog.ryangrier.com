@@ -16,7 +16,14 @@ My shuffle categories are set to People (my family members), Pets, Nature, and C
 
 It's entertaining to see old photos of the kids or dogs. I really love seeing photos that I haven't seen in years. Sometimes I'll also get some nice-looking photos I've taken on hikes or while traveling.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/11/iOS16-Lockscreens.webp" class="kg-image" alt loading="lazy" width="2000" height="1442"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2022/ios-16-lockscreen/lockscreen.jpg">
+		<div class="card-body mx-auto">
+			<small>Lock screen Samples</small>
+		</div>
+	</div>
+</div>
 
 I included a few samples above.
 

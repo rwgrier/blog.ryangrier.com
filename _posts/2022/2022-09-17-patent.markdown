@@ -19,8 +19,6 @@ We developed the feature in a short amount of time. I believe it took us two wee
 
 It was a neat experience for me. A handful of us worked very closely in order to design, develop and then correctly document the entire process. It was truly a team effort.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/09/IMG_0162.jpeg" class="kg-image" alt loading="lazy" width="874" height="1792"></figure>
-
 This feature is still being used in the Barclaycard app today. Check out the screenshot above.
 
 I'm not sure anyone who worked on this feature (and patent) still works for Barclaycard.
