@@ -6,7 +6,7 @@ date: '2018-10-23 00:00:00'
 
 It’s been a crazy Summer.
 
-Not only did I spend a significant amount of time this Summer preparing to [ship an app]( __GHOST_URL__ /dc-universe/), but we also bought a new house. Things got even crazier because we closed on the new house on the exact same day we shipped the app.
+Not only did I spend a significant amount of time this Summer preparing to [ship an app](/2018/10/17/dc-universe/), but we also bought a new house. Things got even crazier because we closed on the new house on the exact same day we shipped the app.
 
 Our new house is less than two miles from the old house. We’ve been looking for a new house for roughly three years. We were only interested in houses within the same township we’ve lived in for over 10 years now. We’ve looked at a few dozen houses in the area and weren’t thrilled with any of them. This house came up in the ideal neighborhood and we decided to move quickly on it. The funny thing is that we actually looked at this house a year ago, but moved a little too slow and the old owners rented it out.
 

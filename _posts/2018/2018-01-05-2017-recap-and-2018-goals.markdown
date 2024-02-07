@@ -8,7 +8,7 @@ date: '2018-01-05 22:00:00'
 
 # 2017 Goals
 
-I made a number of [goals in 2017]( __GHOST_URL__ /some-2017-goals/). I achieved a few of them, but not all.
+I made a number of [goals in 2017](/2017/01/05/some-2017-goals/). I achieved a few of them, but not all.
 
 ## Half Marathon
 
@@ -20,7 +20,7 @@ I was training and preparing for this. I was out running several times a week fo
 
 I managed to make a number of semi-technical blogs posts. One one was overly technical, but I think I got close enough with the others to call this a win.
 
-I posted a rather lengthy post about how to use [Charles Proxy]( __GHOST_URL__ /charles-proxy-primer/) for app development and testing. This actually turned into a talk I did last year (to satisfy another goal).
+I posted a rather lengthy post about how to use [Charles Proxy](/2017/03/17/charles-proxy-primer/) for app development and testing. This actually turned into a talk I did last year (to satisfy another goal).
 
 I also started a new series about data synchronization. It’s still a very slow work in progress, but I’m still chipping away at it. Life gets in the way (as always). But I’m determined to make more progress.
 

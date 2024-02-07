@@ -8,7 +8,7 @@ tags:
 
 It’s been a while since I’ve posted anything other than lists of books I’ve been reading here. So I thought I would post something slightly different.
 
-I posted about my gaming habits most recently in [November of last year]( __GHOST_URL__ /video-games-and-gaming/). Since then, not a lot has changed. I still play quite a bit of [Star Wars: Galaxy of Heroes](https://www.ea.com/games/starwars/galaxy-of-heroes). I’ve played less and less of [Hearthstone](https://playhearthstone.com/en-us/), but I think I’m going to pick it up again.
+I posted about my gaming habits most recently in [November of last year](/2017/11/05/video-games-and-gaming/). Since then, not a lot has changed. I still play quite a bit of [Star Wars: Galaxy of Heroes](https://www.ea.com/games/starwars/galaxy-of-heroes). I’ve played less and less of [Hearthstone](https://playhearthstone.com/en-us/), but I think I’m going to pick it up again.
 
 Mobile gaming is just so accessible to me. My phone is always with me.
 
