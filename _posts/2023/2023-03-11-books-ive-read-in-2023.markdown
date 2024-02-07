@@ -24,7 +24,7 @@ These books are fast reads. I'm about halfway through the series (currently read
 
 ### _Rules of Civility: A Novel_
 
-Like I said in my [Some of my favorite things - 2022 Edition]( __GHOST_URL__ /some-of-my-favorite-things-2022-edition/) post, Amor Towles was suggested to me by a soccer parent. She not only recommended _A Gentleman in Moscow_, but all of Amor Towles's books.
+Like I said in my [Some of my favorite things - 2022 Edition](/2022/12/30/some-of-my-favorite-things-2022-edition/) post, Amor Towles was suggested to me by a soccer parent. She not only recommended _A Gentleman in Moscow_, but all of Amor Towles's books.
 
 [_Rules of Civility: A Novel_](https://bookshop.org/a/92026/9780143121169) by Amor Towles is fantastic. I started reading this book late last year but didn't finish until early this year. It details how a chance encounter could change someone's life in an unexpected way.
 
