@@ -12,7 +12,7 @@ This site runs on [Jekyll](https://jekyllrb.com/). It’s a platform that takes 
 
 The theme looks great, but there were a few things that I didn’t quite like about it. The navigation was an issue for me. I am not a fan of hamburger menus on websites. I never liked the navigation, but I didn’t have much interested in changing it, until now.
 
-I also wanted to take some time to add both a [portfolio]( __GHOST_URL__ /portfolio) page and [my resume]( __GHOST_URL__ /resume).
+I also wanted to take some time to add both a [portfolio](https://www.ryangrier.com/portfolio/) page and [my resume](https://www.ryangrier.com/resume/).
 
 Over the last week, I took the time to make these changes. I decided to remove the Lanyon theme entirely and roll my own “theme” using [Tailwind CSS](https://tailwindcss.com/). What I have now isn’t much of a theme that can be packaged and distributed, but I built this myself. It still looks a lot like the Lanyon theme, but I know how it works and won’t have much issue adding and tweaking things in the future.
 

@@ -9,7 +9,7 @@ tags:
 
 This is the final post in a series on adding UIKeyCommands (keyboard shortcuts) to an iOS app. In this post, we’ll cover how to add menu bar items to a macOS Catalyst app using UIKeyCommands.
 
-This will not be a full tutorial on how to add menu items to macOS Catalyst apps. Instead, this post will demonstrate that you can use the same keyboard shortcuts created in [part two]( __GHOST_URL__ /uikeycommand-part-2/) and create menu items.
+This will not be a full tutorial on how to add menu items to macOS Catalyst apps. Instead, this post will demonstrate that you can use the same keyboard shortcuts created in [part two](/2021/04/26/uikeycommand-part-2/) and create menu items.
 
 In macOS Catalyst apps, your `UIApplicationDelegate` class (usually `AppDelegate`) will configure the menu bar. This is handled in the `func buildMenu(with builder: UIMenuBuilder) ` method ([documentation](https://developer.apple.com/documentation/uikit/uiresponder/3327317-buildmenu)). In this method, you can add and remove menu items and sub menu items.
 
@@ -17,17 +17,30 @@ You can download the corresponding sample app [here](https://github.com/rwgrier/
 
 Use the existing UIKeyCommand objects in a UIMenu initializer and then added to the builder object in the `buildMenu` method (from above) like this:
 
+<figure class="figure">
+    {% highlight swift %}
     let menu = UIMenu(title: "Show",
-    				  identifier: .show,
-                      options: .displayInline,
-                      children: [TableViewController.showTableAlert,
-                                 DetailViewController.showDetailAlert])
-    
+                      identifier: .show,
+                      options: .displayInline,
+                      children: [TableViewController.showTableAlert,
+                                 DetailViewController.showDetailAlert])
+                                 
     builder.insertChild(menu, atStartOfMenu: .file)
+    {% endhighlight %}
+    
+    <figcaption class="figure-caption">Swift code snippet to create a menu item</figcaption>
+    </figure>
 
 This little block of code adds the “Show Table” and “Show Detail” menu items. When you run the app, it will look like this.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/menu.png" class="kg-image" alt="Resulting menu" loading="lazy" width="824" height="288"></figure>
+<div class="py-3">
+    <div class="card shadow-sm">
+        <img class="img-fluid" src="/public/images/2021/uikeycommand-part-3/menu.png">
+        <div class="card-body mx-auto">
+            <small>Resulting menu</small>
+        </div>
+    </div>
+</div>
 
 That’s it. That’s really all there is to it to take existing keyboard shortcuts and add them to a macOS Catalyst app as menu items.
 
@@ -35,5 +48,5 @@ UIKeyCommand object are incredibly versatile in the situations we’ve gone over
 
 ## Other Posts in the Series
 
-[Part 1]( __GHOST_URL__ /uikeycommand-part-1/) | [Part 2]( __GHOST_URL__ /uikeycommand-part-2/)
+[Part 1](/2021/04/22/uikeycommand-part-1/) • [Part 2](/2021/04/26/uikeycommand-part-2/)
 

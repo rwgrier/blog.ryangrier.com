@@ -10,13 +10,27 @@ I recently finished playing through [Star Wars Jedi: Fallen Order](https://en.wi
 
 I really enjoyed the game quite a bit. I bought the game when it first came out but kept getting distracted from it. This was my third attempt at the game. I finally finished it.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/fallen-order-1.png" class="kg-image" alt="Fallen Order Screenshot" loading="lazy" width="1920" height="1080"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2021/star-wars-jedi-fallen-order/fallen-order-1.png">
+		<div class="card-body mx-auto">
+			<small>Fallen Order Screenshot</small>
+		</div>
+	</div>
+</div>
 
 I played through the game on “Story Mode” which is the easiest difficulty. I used to play games on the hardest difficulty, but in the last few years, I just want to experience the story and not struggle with gameplay.
 
 This game takes place a few years after &nbsp;[Star Wars: Episode III – Revenge of the Sith](https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith) . I won’t give away any spoilers here. But it was neat to explore a whole new storyline in the Star Wars universe. This game has a new set of (main) characters. Along with some villains that were introduced in [Star Wars Rebels](https://en.wikipedia.org/wiki/Star_Wars_Rebels)(an amazing TV show).
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/fallen-order-2.png" class="kg-image" alt="Fallen Order Screenshot" loading="lazy" width="1920" height="1080"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2021/star-wars-jedi-fallen-order/fallen-order-2.png">
+		<div class="card-body mx-auto">
+			<small>Fallen Order Screenshot</small>
+		</div>
+	</div>
+</div>
 
 There’s this great Uncharted vibe to this game. You get to explore and solve puzzles in a variety of environments. I loved the Uncharted games, and this game feels similar. The story is also good, but I’m not sure if it’s because of the game’s story or because I really enjoy the Star Wars universe.
 

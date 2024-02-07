@@ -6,6 +6,16 @@ tags:
 - video-games
 ---
 
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2021/site-updates-feb-2021/site-dark-mode.png">
+		<div class="card-body mx-auto">
+			<small>Dark Mode Support</small>
+		</div>
+	</div>
+</div>
+
+
 This past weekend, I finished playing through [Super Mario Odyssey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey) on the [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch). The game flew by for me. I hadn’t even realized I was near the end of the story, and there I was.
 
 There isn’t a lot to the plot. If you’ve played any other Super Mario games, this one has a very similar plot. Princess Peach was kidnapped by Bowser and it’s up to you to rescue her. It’s not very imaginative. But playing the game is a lot of fun.

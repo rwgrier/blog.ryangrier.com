@@ -7,7 +7,7 @@ tags:
 - app-development
 ---
 
-In the [first post]( __GHOST_URL__ /uikeycommand-part-1/) in this UIKeyCommands series, we went over the basics of UIKeyCommands and adding keyboard shortcuts to an app. Adding keyboard shortcuts to a real app can be a little more complicated, but not much.
+In the [first post](/2021/04/22/uikeycommand-part-1/) in this UIKeyCommands series, we went over the basics of UIKeyCommands and adding keyboard shortcuts to an app. Adding keyboard shortcuts to a real app can be a little more complicated, but not much.
 
 ## First, some background
 
@@ -19,7 +19,14 @@ Getting the keyboard shortcuts working wasn’t a lot of work. I just lacked an 
 
 Beer Style Guidelines has a [Split View Controller](https://developer.apple.com/documentation/uikit/uisplitviewcontroller) view architecture.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/wireframe.png" class="kg-image" alt="Split View Controller Wireframe" loading="lazy" width="2397" height="1858"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2021/uikeycommand-part-2/wireframe.png">
+		<div class="card-body mx-auto">
+			<small>Split View Controller Wireframe</small>
+		</div>
+	</div>
+</div>
 
 In my first iteration of keyboard shortcuts, I had two or three commands. They were all triggered from the Detail View Controller (the large part of the screen). I wanted to add more keyboard shortcuts, but I was paralyzed with not knowing how to proceed.
 
@@ -51,5 +58,5 @@ There’s one more post in this series. Next time, we’ll stray away from iOS s
 
 ## Other Posts in the Series
 
-[Part 1]( __GHOST_URL__ /uikeycommand-part-1/) | [Part 3]( __GHOST_URL__ /uikeycommand-part-3/)
+[Part 1](/2021/04/22/uikeycommand-part-1/) • [Part 3](/2021/04/28/uikeycommand-part-3/)
 

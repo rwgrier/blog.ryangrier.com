@@ -17,7 +17,15 @@ Beginning in iOS 7, Apple started allowing developers to implement keyboard shor
 
 These keyboard shortcuts have been around for a few years. So, it’s easy to see how other developers have implemented these. A great way to discover what keyboard shortcuts apps have is to launch the app, and then hold down the command (⌘) key. Here’s an example from my app [Beer Style Guidelines](https://www.beerstyleguidelines.app/).
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/discovery.png" class="kg-image" alt="iPad Keyboard Shortcut Discovery" loading="lazy" width="2360" height="1640"></figure>
+<div class="py-3">
+    <div class="card shadow-sm">
+        <img class="img-fluid" src="/public/images/2021/uikeycommand-part-1/discovery.png">
+        <div class="card-body mx-auto">
+            <small>iPad Keyboard Shortcut Discovery</small>
+        </div>
+    </div>
+</div>
+
 ## How do I implement my own UIKeyCommand?
 
 There are two parts to implement UIKeyCommands in your app. First, is the `UIKeyCommand` object itself. Then these UIKeyCommands need to be integrated into the app.
@@ -31,10 +39,16 @@ The [initializer for UIKeyCommand](https://developer.apple.com/documentation/uik
 
 Putting all of this together, you can create a keyboard shortcut like this:
 
+<figure class="figure">
+{% highlight swift %}
     let infoCommand = UIKeyCommand(title: "Show Info",
-                                   action: #selector(showInfo),
-                                   input: "i",
-                                   modifierFlags: .command)
+                                   action: #selector(showInfo),
+                                   input: "i",
+                                   modifierFlags: .command)
+{% endhighlight %}
+
+<figcaption class="figure-caption">Swift code snippet to create a keyboard shortcut</figcaption>
+</figure>
 
 In this example, the user will trigger a keyboard shortcut to show info when they use ⌘ + i. This will show them an iOS alert with a simple message in it.
 
@@ -46,11 +60,18 @@ Download and run the sample app. Once launched, hold down on the Command key (�
 
 If nothing shows up, and you’re testing this in the simulator, you may need to enable “Send Keyboard Input to Device” in the simulator. This can be done through the menu system by selecting I/O → Input → Send Keyboard Input to Device. Or, you can click on this button in the toolbar (below) of the simulator. Without doing this, sometimes the keyboard shortcuts can be lost, and it will seem like the keyboard shortcuts are not working.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/send-keyboard-input-to-device.png" class="kg-image" alt="Send Keyboard Input to Device" loading="lazy" width="1605" height="177"></figure>
+<div class="py-3">
+    <div class="card shadow-sm">
+        <img class="img-fluid" src="/public/images/2021/uikeycommand-part-1/send-keyboard-input-to-device.png">
+        <div class="card-body mx-auto">
+            <small>Send Keyboard Input to Device</small>
+        </div>
+    </div>
+</div>
 
 That’s it. Keyboard shortcuts are straightforward to set up and get working in your apps. Next time we’ll get a little more in-depth on UIKeyCommand.
 
 ## Other Posts in the Series
 
-[Part 2]( __GHOST_URL__ /uikeycommand-part-2/) | [Part 3]( __GHOST_URL__ /uikeycommand-part-3/)
+[Part 2](/2021/04/26/uikeycommand-part-2/) • [Part 3](/2021/04/28/uikeycommand-part-3/)
 
