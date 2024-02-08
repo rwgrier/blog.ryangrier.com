@@ -21,7 +21,14 @@ Lists can be either private and shared. Private lists will be your own thing tha
 
 Here’s a quick wireframe of what this simple app may end up looking like.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/lists-app-wireframe.png" class="kg-image" alt loading="lazy" width="854" height="421"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2017/data-sync-series-part-3/lists-app-wireframe.png">
+		<div class="card-body mx-auto">
+			<small>Wireframe</small>
+		</div>
+	</div>
+</div>
 
 There’s not a lot going on. There doesn’t really need to be. The important part of this app is that there is data to be synced between devices and shared between users.
 
@@ -43,5 +50,5 @@ I used this Sketch Resource to build the wireframe above: [Mobile UI Wireframe K
 
 ## Other Posts in the Series
 
-[Part 1]( __GHOST_URL__ /data-sync-series-part-1/) | [Part 2]( __GHOST_URL__ /data-sync-series-part-2/) | [Part 4]( __GHOST_URL__ /data-sync-series-part-4/) | [Part 5]( __GHOST_URL__ /data-sync-series-part-5/)
+[Part 1](/2017/05/12/data-sync-series-part-1/) • [Part 2](/2017/06/05/data-sync-series-part-2/) • [Part 4](/2017/09/01/data-sync-series-part-4/) • [Part 5](/2017/10/24/data-sync-series-part-5/)
 

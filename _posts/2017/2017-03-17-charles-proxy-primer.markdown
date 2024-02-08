@@ -13,7 +13,7 @@ If you work on any sort of mobile client that communicates with a web service, y
 
 This post will give a primer on using Charles with a simple iOS project. I wrote a very simple project that will load the Curated Images from [Unsplash](https://unsplash.com/). You can grab the [source code](https://github.com/rwgrier/unsplashed) from GitHub.
 
-All of the setup in this post is for the iOS Simulator. But setting up Charles to talk to other devices (tvOS or real iOS/tvOS devices), is easy enough. I have written a separate guide to setting up Charles Proxy for an Apple TV device, which you can find it here: [Setting up Charles Proxy on Apple TV (tvOS)]( __GHOST_URL__ /setting-up-charles-proxy-on-apple-tv-tvos/).
+All of the setup in this post is for the iOS Simulator. But setting up Charles to talk to other devices (tvOS or real iOS/tvOS devices), is easy enough. I have written a separate guide to setting up Charles Proxy for an Apple TV device, which you can find it here: [Setting up Charles Proxy on Apple TV (tvOS)](/2016/09/28/setting-up-charles-proxy-on-apple-tv-tvos/).
 
 _Please Note: The way I’ve outlined the instructions here is not the only way to do things. Feel free to explore the app on your own._
 
@@ -51,11 +51,21 @@ The steps for configuring Charles to watch iOS Simulator traffic have gotten so 
 2. Make sure that you have run the target iOS Simulator at least once.
 3. Quit the iOS Simulator
 4. Open Charles and navigate to _Help -\> SSL Proxying -\> Install Charles Root Certificate in iOS Simulators_
-<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/hyPS07RHy8Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Charles Proxy - Install Cert to iOS Simulators"></iframe></figure>
+
+<div class="py-3 embed-responsive embed-responsive-16by9 mx-auto">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/hyPS07RHy8Y?si=t4wZhZOXR2ud5s7N" title="Charles Proxy - Install Cert to iOS Simulators" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 If your app is talking to a HTTPS website ([as it should be](https://developer.apple.com/news/?id=12212016b)), there may be a few extra steps you need to do in order to actually see the data. By default, the HTTPS/SSL response from a web service may look like this:
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/image.png" class="kg-image" alt loading="lazy" width="1400" height="973"><figcaption>Charles Traffic without SSL Proxying</figcaption></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2017/charles-proxy-primer/charles-proxy-1.png">
+		<div class="card-body mx-auto">
+			<small>Charles Traffic without SSL Proxying</small>
+		</div>
+	</div>
+</div>
 
 In order to unscramble that mess, you need to enable [SSL Proxying](https://www.juniper.net/documentation/en_US/junos/topics/concept/ssl-proxy-overview.html) for the domain. Follow these steps to enable SSL Proxying for the Unsplash API domain:
 
@@ -64,11 +74,21 @@ In order to unscramble that mess, you need to enable [SSL Proxying](https://www.
 3. Make sure _Enable SSL Proxying_ is enabled.
 4. Click the _Add_ button at the bottom.
 5. Enter `api.unsplash.com` into the _Host_ field and click OK.
-<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/jUuFY2N6yqA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Charles Proxy - Enable SSL on URL"></iframe></figure>
+
+<div class="py-3 embed-responsive embed-responsive-16by9 mx-auto">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/jUuFY2N6yqA?si=mpMy-AC1fnB9Aepz" title="Charles Proxy - Enable SSL on URL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Thats it. When you restart your app, Charles should start capturing your web traffic. The HTTP response will look more like this:
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/image-1.png" class="kg-image" alt loading="lazy" width="1400" height="973"><figcaption>Charles Traffic with SSL Proxying</figcaption></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2017/charles-proxy-primer/charles-proxy-2.png">
+		<div class="card-body mx-auto">
+			<small>Charles Traffic with SSL Proxying</small>
+		</div>
+	</div>
+</div>
 
 If you’d like to know how to install the SSL Certificates for other devices, the Charles website has [instructions](https://www.charlesproxy.com/documentation/using-charles/ssl-certificates/) on how to do this.
 
@@ -79,7 +99,10 @@ You can use Charles as it is, or you can customize things. I don’t like having
 3. Click the _Add_ button at the bottom.
 4. Paste `http://api.unsplash.com/*` into the _Host_ field and press the _Tab_ key on your keyboard. All off the fields will be populated here.
 5. Click OK.
-<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/CONXAROdv30?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Charles Proxy - Include Specific URL"></iframe></figure>
+
+<div class="py-3 embed-responsive embed-responsive-16by9 mx-auto">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/CONXAROdv30?si=RUSwdgyxVJjZ0IBx" title="Charles Proxy - Include Specific URL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Once you start adding entries here, Charles will not record traffic to other domains. This really helps in keeping your traffic logs nice and clean. It really helps when you submit defects/tickets to other people (say the web service team) with a nice clean Charles log showing what happened.
 
@@ -114,7 +137,10 @@ Here’s how you import the existing rule from the GitHub Repo:
 3. Click the _Import_ button at the bottom.
 4. Navigate to the _Charles Rules/500HttpStatusRemote.xml_ file and click Open.
 5. Click OK.
-<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/VLmwqXOpAlQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Charles Proxy - Import Map Remote Rule"></iframe></figure>
+
+<div class="py-3 embed-responsive embed-responsive-16by9 mx-auto">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/VLmwqXOpAlQ?si=opNUY_WjjaPqhOzz" title="Charles Proxy - Import Map Remote Rule" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Or if you’d rather create the rule yourself, follow these steps:
 
@@ -125,7 +151,10 @@ Or if you’d rather create the rule yourself, follow these steps:
 5. Paste `http://httpstat.us/500` into the _Map To_ _Host_ field and press the _Tab key_ on your keyboard. All off the fields will be populated here.
 6. Click OK.
 7. Click OK.
-<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/ZW9Kh3WN8MM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Charles Proxy - Add Map Remote Rule"></iframe></figure>
+
+<div class="py-3 embed-responsive embed-responsive-16by9 mx-auto">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/ZW9Kh3WN8MM?si=Icd0Wu0p9PBsEE-e" title="Charles Proxy - Add Map Remote Rule" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Now, if you relaunch the app, you should be presented with an error message and see that there is now traffic being routed to http://httpstat.us/500.
 
@@ -133,7 +162,14 @@ The service [http://httpstat.us](http://httpstat.us/) can serve up all of the HT
 
 When you look at the Charles traffic, you will no longer see the original URL being mapped. This also means that you’ll need to listen for the mapped URL in addition to the original one. Please read above for notes on adding additional URLs.
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://miro.medium.com/max/1400/1*ytFwJMgw6o40Sv8UWhxoFg.png" class="kg-image" alt loading="lazy"><figcaption>500 Response Using Charles Mapping</figcaption></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2017/charles-proxy-primer/charles-proxy-3.png">
+		<div class="card-body mx-auto">
+			<small>500 Response Using Charles Mapping</small>
+		</div>
+	</div>
+</div>
 
 If you look at the response overview, you’ll notice that Charles has included a note about the response:
 
@@ -157,7 +193,10 @@ I’ve included a few example rewrite rules in the _Charles Rules_ folder in the
 2. Click on the _Enable Rewrite_ checkbox to enable it.
 3. Click the _Import_ button at the bottom.
 4. Navigate to the _Charles Rules/422RewriteError.xml_ file and click Open.
-<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/a8BlNCXvk8w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Charles Proxy - Import Rewrite Rule"></iframe></figure>
+
+<div class="py-3 embed-responsive embed-responsive-16by9 mx-auto">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/a8BlNCXvk8w?si=dWNqgKn8FVZ_tcv1" title="Charles Proxy - Import Rewrite Rule" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Creating a rewrite rule from scratch is not always easy. They can be tricky to setup and it’s easy to forget steps.
 
@@ -184,7 +223,19 @@ There are a lot of steps here. Please bear with me. Or watch the video below.
 17. Click OK
 18. Click Apply
 19. Click OK
-<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/rEnhKhkXhdE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Charles Proxy - Add Rewrite Rule"></iframe></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://miro.medium.com/max/1400/1*VaiUr7bneJ3AeCXMR5RBHg.png" class="kg-image" alt loading="lazy"><figcaption>422 Response Using Charles Rewrite</figcaption></figure>
+
+<div class="py-3 embed-responsive embed-responsive-16by9 mx-auto">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/rEnhKhkXhdE?si=609SMYS7EBRSq4RA" title="Charles Proxy - Add Rewrite Rule" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2017/charles-proxy-primer/charles-proxy-4.png">
+		<div class="card-body mx-auto">
+			<small>422 Response Using Charles Rewrite</small>
+		</div>
+	</div>
+</div>
 
 When creating these rewrite rules, it’s valuable to make sure the responses are either valid XML or JSON before using them. It can be painful to edit parts of responses in the Charles rewrite modal view. I’ll usually verify that the JSON is valid _before_ pasting it in there. In the past, I’ve spent a lot of time trying to debug my rules only to find out the response JSON is invalid.
 

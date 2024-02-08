@@ -43,5 +43,5 @@ I really hope this next phase takes less time than it did to develop the base ap
 
 ## Other Posts in the Series
 
-[Part 1]( __GHOST_URL__ /data-sync-series-part-1/) | [Part 2]( __GHOST_URL__ /data-sync-series-part-2/) | [Part 3]( __GHOST_URL__ /data-sync-series-part-3/) | [Part 5]( __GHOST_URL__ /data-sync-series-part-5/)
+[Part 1](/2017/05/12/data-sync-series-part-1/) • [Part 2](/2017/06/05/data-sync-series-part-2/) • [Part 3](/2017/06/23/data-sync-series-part-3/) • [Part 5](/2017/10/24/data-sync-series-part-5/)
 
