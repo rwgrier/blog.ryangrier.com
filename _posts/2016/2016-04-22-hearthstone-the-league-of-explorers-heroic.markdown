@@ -57,7 +57,5 @@ All of that work got me this nifty card back. It’s not my favorite, but I like
 	</div>
 </div>
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/25945853124_0030d7afaa_o.png" class="kg-image" alt loading="lazy" width="1334" height="750"></figure>
-
 If you decide to do this, good luck and have fun.
 
