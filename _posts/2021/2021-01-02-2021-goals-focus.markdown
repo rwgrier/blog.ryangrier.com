@@ -28,7 +28,7 @@ Some layoffs late last year at my company have made me step back and realize tha
 
 This should be an easy thing to focus on. I just need to be more disciplined about it. I enjoy learning new things in my trade. I also like when I can show new ideas and concepts to other developers on my team.
 
-I would like to continue applying new ideas like SwiftUI and Combine in both my [personal](/2020/12/17/mycntdwn-lives/) [apps](https://apps.apple.com/us/app/beer-styles-bjcp-2015/id998139111?ls=1) and hopefully at work.
+I would like to continue applying new ideas like SwiftUI and Combine in both my [personal]({%post_url /2020/2020-12-17-mycntdwn-lives %}) [apps](https://apps.apple.com/us/app/beer-styles-bjcp-2015/id998139111?ls=1) and hopefully at work.
 
 ## Reading
 

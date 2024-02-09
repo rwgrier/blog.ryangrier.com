@@ -6,7 +6,7 @@ tags:
 - video-games
 ---
 
-Almost three years ago, I had written a post about [The Legend of Zelda: Breath of the Wild](/2020/08/20/the-legend-of-zelda-breath-of-the-wild/). At the time, I had written that I didn't like Breath of the Wild despite attempting the game on three different occasions. I couldn't get into it.
+Almost three years ago, I had written a post about [The Legend of Zelda: Breath of the Wild]({%post_url /2020/2020-08-20-the-legend-of-zelda-breath-of-the-wild %}). At the time, I had written that I didn't like Breath of the Wild despite attempting the game on three different occasions. I couldn't get into it.
 
 Earlier this year, [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/) came out. Just before Tears of the Kingdom came out, I decided to give [The Legend of Zelda: Breath of the Wild](https://zelda.nintendo.com/breath-of-the-wild/) another chance.
 
