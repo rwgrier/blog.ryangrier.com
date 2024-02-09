@@ -6,7 +6,7 @@ tags:
 - video-games
 ---
 
-This is another post about Hearthstone and beating another Solo Adventure. I’ve done these sort of posts before for various solo adventures ([One Night in Karazhan](/2016/10/21/hearthstone-one-night-in-karazhan-heroic/), [Blackrock Mountain](/2016/04/24/hearthstone-blackrock-mountain-heroic/), [The League of Explorers](/2016/04/22/hearthstone-the-league-of-explorers-heroic/) & [Curse of Naxxramas](/2016/04/03/hearthstone-curse-of-naxxramas-heroic/)). This isn’t the most recent adventure, I’m really behind on completing these.
+This is another post about Hearthstone and beating another Solo Adventure. I’ve done these sort of posts before for various solo adventures ([One Night in Karazhan]({%link _posts/2016/2016-10-21-hearthstone-one-night-in-karazhan-heroic.markdown %}), [Blackrock Mountain]({%link _posts/2016/2016-04-24-hearthstone-blackrock-mountain-heroic.markdown %}), [The League of Explorers]({%link _posts/2016/2016-04-22-hearthstone-the-league-of-explorers-heroic.markdown %}) & [Curse of Naxxramas]({%link _posts/2016/2016-04-03-hearthstone-curse-of-naxxramas-heroic.markdown %})). This isn’t the most recent adventure, I’m really behind on completing these.
 
 [Knights of the Frozen Throne](https://hearthstone.gamepedia.com/Knights_of_the_Frozen_Throne) was a little different than other adventures. Instead of beating the entire adventure on Heroic, you need to beat the final boss (The Lich King) with every class in the game.
 

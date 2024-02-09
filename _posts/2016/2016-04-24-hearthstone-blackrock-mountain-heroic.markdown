@@ -8,7 +8,7 @@ tags:
 
 I finished it! Finally!
 
-After finishing both [Curse of Naxxramas](/2016/04/03/hearthstone-curse-of-naxxramas-heroic/) and [The League of Explorers](/2016/04/22/hearthstone-the-league-of-explorers-heroic/) on Heroic, I _needed_ to wrap things up. I just so happen to finish LOE with only one boss fight left in Blackrock Mountain. It took me a few days to beat Maloriak on heroic, but I did it.
+After finishing both [Curse of Naxxramas]({%link _posts/2016/2016-04-03-hearthstone-curse-of-naxxramas-heroic.markdown %}) and [The League of Explorers]({%link _posts/2016/2016-04-22-hearthstone-the-league-of-explorers-heroic.markdown %}) on Heroic, I _needed_ to wrap things up. I just so happen to finish LOE with only one boss fight left in Blackrock Mountain. It took me a few days to beat Maloriak on heroic, but I did it.
 
 Honestly, at the end of this process I hated fighting these bosses. It’s probably not the wisest idea to tackle these like I did (all in a row). But I wanted to finish them before Whisper of the Old Gods expansion came out (next Tuesday).
 

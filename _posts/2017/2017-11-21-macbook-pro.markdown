@@ -12,7 +12,7 @@ I bought a [13” MacBook Pro with Touch Bar and Touch ID](https://www.apple.com
 
 Prior to buying this laptop, I waited for a new laptop for a few years. I was going to get one when the retina displays came out, but held back. Then I was going to get one last Fall when the Touch Bar models came out. But I waited again. When they announced the latest model (with [Kaby Lake](https://en.wikipedia.org/wiki/Kaby_Lake#List_of_Kaby_Lake_R_processors)), I decided it was time.
 
-For more than a year now prior to getting this new MacBook Pro, I had been [using an iPad Pro (9.7”) as my primary device](/2016/10/24/ipad-pro-97/). It was perfect for everything except doing iOS development.
+For more than a year now prior to getting this new MacBook Pro, I had been [using an iPad Pro (9.7”) as my primary device]({%link _posts/2016/2016-10-24-ipad-pro-97.markdown %}). It was perfect for everything except doing iOS development.
 
 My previous laptops have been a bit of an overkill. I always went with the 15” model, fully maxed out. I had even used my last laptop to play (or try) games on. It had a 512MB video card in it (which was a lot at the time). But it turns out that my PC desktop is perfect for games like that.
 

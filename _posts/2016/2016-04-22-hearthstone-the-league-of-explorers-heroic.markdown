@@ -6,7 +6,7 @@ tags:
 - video-games
 ---
 
-Last week I finished another Hearthstone adventure on Heroic. Previously, I had finished the [Curse of Naxxramas on Heroic](/2016/04/03/hearthstone-curse-of-naxxramas-heroic/). I’m going through to finish them all.
+Last week I finished another Hearthstone adventure on Heroic. Previously, I had finished the [Curse of Naxxramas on Heroic]({%link _posts/2016/2016-04-03-hearthstone-curse-of-naxxramas-heroic.markdown %}). I’m going through to finish them all.
 
 I started both Blackrock Mountain and The League of Explorer’s at the same time. I had been alternating between BRM and LOE bosses. It just so happens that I’ve finshed up this adventure first.
 

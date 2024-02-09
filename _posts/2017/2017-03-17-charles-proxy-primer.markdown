@@ -13,7 +13,7 @@ If you work on any sort of mobile client that communicates with a web service, y
 
 This post will give a primer on using Charles with a simple iOS project. I wrote a very simple project that will load the Curated Images from [Unsplash](https://unsplash.com/). You can grab the [source code](https://github.com/rwgrier/unsplashed) from GitHub.
 
-All of the setup in this post is for the iOS Simulator. But setting up Charles to talk to other devices (tvOS or real iOS/tvOS devices), is easy enough. I have written a separate guide to setting up Charles Proxy for an Apple TV device, which you can find it here: [Setting up Charles Proxy on Apple TV (tvOS)](/2016/09/28/setting-up-charles-proxy-on-apple-tv-tvos/).
+All of the setup in this post is for the iOS Simulator. But setting up Charles to talk to other devices (tvOS or real iOS/tvOS devices), is easy enough. I have written a separate guide to setting up Charles Proxy for an Apple TV device, which you can find it here: [Setting up Charles Proxy on Apple TV (tvOS)]({%link _posts/2016/2016-09-28-setting-up-charles-proxy-on-apple-tv-tvos.markdown %}).
 
 _Please Note: The way I’ve outlined the instructions here is not the only way to do things. Feel free to explore the app on your own._
 
