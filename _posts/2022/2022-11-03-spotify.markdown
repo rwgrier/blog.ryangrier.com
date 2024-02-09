@@ -11,7 +11,7 @@ I've been an [Apple Music](https://www.apple.com/apple-music/) user since the be
 
 Apple Music (Family) is now included in the [Apple One](https://www.apple.com/apple-one/) subscription we already pay for.
 
-In my office, I have [Sonos](https://www.sonos.com/) speakers [set up](/2021/10/05/from-homepod-to-sonos/). When I work, I will listen to music. Music helps me focus on my work.
+In my office, I have [Sonos](https://www.sonos.com/) speakers [set up]({%post_url /2021/2021-10-05-from-homepod-to-sonos %}). When I work, I will listen to music. Music helps me focus on my work.
 
 I have one major gripe with Apple Music. Or [Airplay](https://www.apple.com/airplay/). Or my [M1 iPad Pro](https://en.wikipedia.org/wiki/IPad_Pro_(5th_generation)). AirPlay with Apple Music from an iPad to my Sonos setup is unreliable. I usually Airplay music from my iPad Pro to my office speakers. Music will play for a few songs and then stop. The iPad will act like it's playing a song, but there's no sound. To fix it, I'll need to go into Apple Music on my iPad and nudge it to play again. It drives me nuts. I think I've also noticed this issue on my (personal) mac, but not on my iPhone.
 

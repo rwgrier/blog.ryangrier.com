@@ -11,7 +11,7 @@ tags:
 
 In 2022, I've consumed a lot of media. It was mostly books and tv shows.
 
-This post is to pick out a few of my favorites. I did this type of post [last year](/2021/12/31/some-of-my-favorite-things-2021-edition/) too.
+This post is to pick out a few of my favorites. I did this type of post [last year]({%post_url /2021/2021-12-31-some-of-my-favorite-things-2021-edition %}) too.
 
 ## Books
 

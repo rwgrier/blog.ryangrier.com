@@ -7,7 +7,7 @@ tags:
 - app-development
 ---
 
-In the [first post](/2021/04/22/uikeycommand-part-1/) in this UIKeyCommands series, we went over the basics of UIKeyCommands and adding keyboard shortcuts to an app. Adding keyboard shortcuts to a real app can be a little more complicated, but not much.
+In the [first post]({%post_url /2021/2021-04-22-uikeycommand-part-1 %}) in this UIKeyCommands series, we went over the basics of UIKeyCommands and adding keyboard shortcuts to an app. Adding keyboard shortcuts to a real app can be a little more complicated, but not much.
 
 ## First, some background
 
@@ -58,5 +58,5 @@ There’s one more post in this series. Next time, we’ll stray away from iOS s
 
 ## Other Posts in the Series
 
-[Part 1](/2021/04/22/uikeycommand-part-1/) • [Part 3](/2021/04/28/uikeycommand-part-3/)
+[Part 1]({%post_url /2021/2021-04-22-uikeycommand-part-1 %}) • [Part 3]({%post_url /2021/2021-04-28-uikeycommand-part-3 %})
 
