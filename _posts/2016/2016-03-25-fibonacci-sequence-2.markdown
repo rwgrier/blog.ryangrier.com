@@ -4,7 +4,7 @@ title: Fibonacci Sequence
 date: '2016-03-25 04:00:00'
 ---
 
-I wrote my first post covering the Fibonacci Sequence two years ago in [April 2014](/2014/04/09/fibonacci-sequence/). The original post was written with Objective-C sample code and only considered one possible solution. A few months later, to my surprise, Apple had a session at WWDC called [Advanced Swift](https://developer.apple.com/videos/play/wwdc2014/404/) which covered some of the approaches used below. I thought this would be a great time to provide an update to the original post but with a bit more detail.
+I wrote my first post covering the Fibonacci Sequence two years ago in [April 2014]({%link _posts/2014/2014-04-09-fibonacci-sequence.markdown %}). The original post was written with Objective-C sample code and only considered one possible solution. A few months later, to my surprise, Apple had a session at WWDC called [Advanced Swift](https://developer.apple.com/videos/play/wwdc2014/404/) which covered some of the approaches used below. I thought this would be a great time to provide an update to the original post but with a bit more detail.
 
 The [Fibonacci sequence](http://en.wikipedia.org/wiki/Fibonacci_number) is a special sequence of numbers. The first two numbers are 0 and 1. The numbers in the sequence after that build on these first two numbers. The pattern is the next number in the sequence is the sum of the two previous numbers.
 
