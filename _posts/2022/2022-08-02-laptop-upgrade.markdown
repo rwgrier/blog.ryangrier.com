@@ -26,7 +26,7 @@ I ordered this machine in mid-May. It arrived in late July. It took so long to b
 
 The new laptop will be used primarily for development. I do most of my casual computing on an iPad. But I save the real development work for my laptop. I wish that I could use my iPad for development, but I understand why I can’t.
 
-When I [got my previous laptop](/2017/11/21/macbook-pro/), I said I wasn’t sure if I would wait seven years for the next upgrade. I didn’t. Instead of seven years, I only waited about five years.
+When I [got my previous laptop]({%link _posts/2017/2017-11-21-macbook-pro.markdown %}), I said I wasn’t sure if I would wait seven years for the next upgrade. I didn’t. Instead of seven years, I only waited about five years.
 
 I am really happy that I upgraded to a new laptop.
 

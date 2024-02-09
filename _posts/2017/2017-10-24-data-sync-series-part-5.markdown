@@ -33,5 +33,5 @@ This update has actually been done for a little while. I have been sitting on it
 
 ## Other Posts in the Series
 
-[Part 1](/2017/05/12/data-sync-series-part-1/) • [Part 2](/2017/06/05/data-sync-series-part-2/) • [Part 3](/2017/06/23/data-sync-series-part-3/) • [Part 4](/2017/09/01/data-sync-series-part-4/)
+[Part 1]({%link _posts/2017/2017-05-12-data-sync-series-part-1.markdown %}) • [Part 2]({%link _posts/2017/2017-06-05-data-sync-series-part-2.markdown %}) • [Part 3]({%link _posts/2017/2017-06-23-data-sync-series-part-3.markdown %}) • [Part 4]({%link _posts/2017/2017-09-01-data-sync-series-part-4.markdown %})
 

@@ -50,5 +50,5 @@ I used this Sketch Resource to build the wireframe above: [Mobile UI Wireframe K
 
 ## Other Posts in the Series
 
-[Part 1](/2017/05/12/data-sync-series-part-1/) • [Part 2](/2017/06/05/data-sync-series-part-2/) • [Part 4](/2017/09/01/data-sync-series-part-4/) • [Part 5](/2017/10/24/data-sync-series-part-5/)
+[Part 1]({%link _posts/2017/2017-05-12-data-sync-series-part-1.markdown %}) • [Part 2]({%link _posts/2017/2017-06-05-data-sync-series-part-2.markdown %}) • [Part 4]({%link _posts/2017/2017-09-01-data-sync-series-part-4.markdown %}) • [Part 5]({%link _posts/2017/2017-10-24-data-sync-series-part-5.markdown %})
 

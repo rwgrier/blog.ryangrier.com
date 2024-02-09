@@ -39,7 +39,7 @@ I mentioned conflicts a few times earlier. What are they? A conflict is when the
 
 ## Our Synchronization
 
-For the exercise that I outlined in my [previous post](/2017/05/12/data-sync-series-part-1/), I’ll be using an asynchronous peer-to-peer model. I think that this model is ideal for iOS (and other mobile) clients. This allows for the most flexibility in a (still) questionably connected world.
+For the exercise that I outlined in my [previous post]({%link _posts/2017/2017-05-12-data-sync-series-part-1.markdown %}), I’ll be using an asynchronous peer-to-peer model. I think that this model is ideal for iOS (and other mobile) clients. This allows for the most flexibility in a (still) questionably connected world.
 
 The cloud storage mechanism we’ll be using is CloudKit. In the past, I’ve wanted to use Core Data iCloud Sync. Using CloudKit isn’t a huge departure from that desire to stick with Apple technologies. CloudKit has been reported as a solid technology.
 
@@ -55,5 +55,5 @@ Soon enough the real work (and fun) will begin.
 
 ## Other Posts in the Series
 
-[Part 1](/2017/05/12/data-sync-series-part-1/) • [Part 3](/2017/06/23/data-sync-series-part-3/) • [Part 4](/2017/09/01/data-sync-series-part-4/) • [Part 5](/2017/10/24/data-sync-series-part-5/)
+[Part 1]({%link _posts/2017/2017-05-12-data-sync-series-part-1.markdown %}) • [Part 3]({%link _posts/2017/2017-06-23-data-sync-series-part-3.markdown %}) • [Part 4]({%link _posts/2017/2017-09-01-data-sync-series-part-4.markdown %}) • [Part 5]({%link _posts/2017/2017-10-24-data-sync-series-part-5.markdown %})
 

@@ -21,4 +21,4 @@ I have an idea for the project. I’m not sure which technologies I’ll use for
 
 ## Other Posts in the Series
 
- [Part 2](/2017/06/05/data-sync-series-part-2/) • [Part 3](/2017/06/23/data-sync-series-part-3/) • [Part 4](/2017/09/01/data-sync-series-part-4/) • [Part 5](/2017/10/24/data-sync-series-part-5/)
+ [Part 2]({%link _posts/2017/2017-06-05-data-sync-series-part-2.markdown %}) • [Part 3]({%link _posts/2017/2017-06-23-data-sync-series-part-3.markdown %}) • [Part 4]({%link _posts/2017/2017-09-01-data-sync-series-part-4.markdown %}) • [Part 5]({%link _posts/2017/2017-10-24-data-sync-series-part-5.markdown %})
