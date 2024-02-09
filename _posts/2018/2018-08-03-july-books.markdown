@@ -6,7 +6,7 @@ tags:
 - books
 ---
 
-I did a little better job of reading in July than I did in [June](/2018/07/05/june-books/). I had a few books that I was determined to finish. At the start of the month, I had too many books that were in progress. I’ve finished a few, but I think I still have too many books that are in progress. I’m still trying to finish those before I start any new books.
+I did a little better job of reading in July than I did in [June]({%post_url /2018/2018-07-05-june-books %}). I had a few books that I was determined to finish. At the start of the month, I had too many books that were in progress. I’ve finished a few, but I think I still have too many books that are in progress. I’m still trying to finish those before I start any new books.
 
 ## What books are in progress?
 

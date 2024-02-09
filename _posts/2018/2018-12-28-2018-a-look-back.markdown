@@ -4,11 +4,11 @@ title: '2018: A Look Back'
 date: '2018-12-28 00:00:00'
 ---
 
-2018 was a very busy, but very satisfying year. We bought a [new house](/2018/10/23/new-house/), bought a new car, went to Italy, [shipped a huge app](/2018/10/17/dc-universe/) and had a lot of good times. There were a lot more successes and failures that I just never wrote about. Maybe I’ll write about them sometime, but I just haven’t gotten around to it.
+2018 was a very busy, but very satisfying year. We bought a [new house]({%post_url /2018/2018-10-23-new-house %}), bought a new car, went to Italy, [shipped a huge app]({%post_url /2018/2018-10-17-dc-universe %}) and had a lot of good times. There were a lot more successes and failures that I just never wrote about. Maybe I’ll write about them sometime, but I just haven’t gotten around to it.
 
 ## 2018 goals, how’d I do?
 
-Before I looked back at my [2018 goals](/2018/01/05/2017-recap-and-2018-goals/), I thought I did a really good job toward my goals. Turns out, not so much. I’ve only accomplished one of my goals successfully. Ouch. I really thought I did a better job.
+Before I looked back at my [2018 goals]({%post_url /2018/2018-01-05-2017-recap-and-2018-goals %}), I thought I did a really good job toward my goals. Turns out, not so much. I’ve only accomplished one of my goals successfully. Ouch. I really thought I did a better job.
 
 ### Run a 5k (or two)
 
