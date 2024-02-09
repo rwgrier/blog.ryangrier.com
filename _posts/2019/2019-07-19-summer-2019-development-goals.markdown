@@ -9,7 +9,7 @@ tags:
 
 I’ve made a set of goals for the Summer. In the recent past I have been bad about making goals. I’ve been so busy with life, that I’ve just tried hanging on and making it through.
 
-This Summer, I want to do some quality development work on both [MyCntdwn](https://apps.apple.com/us/app/mycntdwn/id293970065?ls=1) and [Beer Style Guidelines](https://apps.apple.com/us/app/beer-style-guidelines/id998139111?ls=1). The thing is that I say this every Summer. And for the last few Summers, I haven’t done enough quality work to ship anything. I’ve even gone as far as committing to a [Data Sync Series]({%link _posts/2017/2017-05-12-data-sync-series-part-1.markdown %}) which I eventually gave up on.
+This Summer, I want to do some quality development work on both [MyCntdwn](https://apps.apple.com/us/app/mycntdwn/id293970065?ls=1) and [Beer Style Guidelines](https://apps.apple.com/us/app/beer-style-guidelines/id998139111?ls=1). The thing is that I say this every Summer. And for the last few Summers, I haven’t done enough quality work to ship anything. I’ve even gone as far as committing to a [Data Sync Series]({%post_url /2017/2017-05-12-data-sync-series-part-1 %}) which I eventually gave up on.
 
 It’s been tough the last few years. I have a lot of things that I want to do, but I haven’t made this development work a priority. Other things in life have been a higher priority (work, family, etc). They still are, but this Summer I am going to do a better job of removing the time wasters. Instead of vegging out and watching a series of stupid TV shows in the evening, I’m going to do more development work.
 

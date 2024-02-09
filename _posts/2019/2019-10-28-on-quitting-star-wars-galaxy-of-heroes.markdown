@@ -6,7 +6,7 @@ tags:
 - video-games
 ---
 
-I recently called it quits on [Star Wars Galaxy of Heroes](https://www.ea.com/games/starwars/galaxy-of-heroes). I had been playing it for almost four years. I know [I’ve posted]({%link _posts/2017/2017-11-05-video-games-and-gaming.markdown %}) about this game before.
+I recently called it quits on [Star Wars Galaxy of Heroes](https://www.ea.com/games/starwars/galaxy-of-heroes). I had been playing it for almost four years. I know [I’ve posted]({%post_url /2017/2017-11-05-video-games-and-gaming %}) about this game before.
 
 This was a game that I had liked for the longest time. However, over the last year or so, they’ve started making some decisions that really didn’t sit well with me.
 

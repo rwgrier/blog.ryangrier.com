@@ -29,7 +29,7 @@ There is at least one alternative to Xcode. [AppCode](http://www.jetbrains.com/o
 
 Charles Proxy is an HTTP proxy/monitor application. It allows you to monitor web traffic from a variety of sources, including macOS/iOS/tvOS devices and the iOS/tvOS simulator.
 
-Charles Proxy is a great tool. I don’t use it every day. I do use it 3-4 times a week. I like Charles Proxy so much that I’ve written about it before. Not just [once]({%link _posts/2016/2016-09-28-setting-up-charles-proxy-on-apple-tv-tvos.markdown %}), but [twice]({%link _posts/2017/2017-03-17-charles-proxy-primer.markdown %}).
+Charles Proxy is a great tool. I don’t use it every day. I do use it 3-4 times a week. I like Charles Proxy so much that I’ve written about it before. Not just [once]({%post_url /2016/2016-09-28-setting-up-charles-proxy-on-apple-tv-tvos %}), but [twice]({%post_url /2017/2017-03-17-charles-proxy-primer %}).
 
 I use Charles Proxy to look at the web data coming into the apps I develop over the network. I’m usually looking for a few things.
 

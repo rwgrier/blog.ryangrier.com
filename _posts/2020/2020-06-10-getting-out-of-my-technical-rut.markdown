@@ -20,7 +20,7 @@ Core Data by Tutorials was a really nice refresher on Core Data. I also learned 
 
 The unit testing chapter gave me some great ideas on how to improve my unit testing in various areas. I’ve been trying to get better with unit testing in both professional and personal projects. This chapter sparked some interest in that area that I’ve been able to progress with, so far.
 
-The Core Data and CloudKit chapter was entirely new to me. I’ve had multiple false starts on getting cloud syncing working in projects. These attempts include a failed blog series called [Data Sync Series]({%link _posts/2017/2017-10-24-data-sync-series-part-5.markdown %}). I had also made multiple attempts to get syncing into my [retired app MyCntdwn](/2019/10/22/sad-day/).
+The Core Data and CloudKit chapter was entirely new to me. I’ve had multiple false starts on getting cloud syncing working in projects. These attempts include a failed blog series called [Data Sync Series]({%post_url /2017/2017-10-24-data-sync-series-part-5 %}). I had also made multiple attempts to get syncing into my [retired app MyCntdwn](/2019/10/22/sad-day/).
 
 This book has got me thinking about data syncing again. I’ve even thought about doing a few things. First, adding sync to MyCntdwn (finally) and shipping it again. Second, revamping my data sync series and actually finishing it. I’m not sure if any of this will happen. But this book has got me started down that path mentally. Who knows, maybe it will be a nice Summer project.
 

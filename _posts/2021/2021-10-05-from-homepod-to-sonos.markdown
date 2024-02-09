@@ -7,7 +7,7 @@ tags:
 - sonos
 ---
 
-I was a pretty early adopter of [Apple’s HomePod](https://www.apple.com/homepod-2018/). I got one as soon as they were available (to me) in [early 2018]({%link _posts/2018/2018-04-07-homepod.markdown %}).
+I was a pretty early adopter of [Apple’s HomePod](https://www.apple.com/homepod-2018/). I got one as soon as they were available (to me) in [early 2018]({%post_url /2018/2018-04-07-homepod %}).
 
 I really enjoyed the HomePod for a while. I had it on my desk and used it while I worked every day. In the last year or so, I started to want a stereo (left and right speakers) setup. However, I didn’t want to spend another $500 on a HomePod.
 

@@ -7,7 +7,7 @@ tags:
 - app-development
 ---
 
-Swift 2.0 included a number of new language statements. I recently wrote about the [Swift Guard Statement]({%link _posts/2016/2016-03-08-swift-guard-statement.markdown %}). Defer is another statement new to Swift 2.0. Honestly, I don’t use defer as much as guard, but it can be extremely useful.
+Swift 2.0 included a number of new language statements. I recently wrote about the [Swift Guard Statement]({%post_url /2016/2016-03-08-swift-guard-statement %}). Defer is another statement new to Swift 2.0. Honestly, I don’t use defer as much as guard, but it can be extremely useful.
 
 What defer does is not obvious at first. Defer will wait to execute a block of code until the current scope (loop, method, etc) is exiting. And it will execute that code whether the scope is exiting cleanly, from a guard, or while an error is being thrown.
 

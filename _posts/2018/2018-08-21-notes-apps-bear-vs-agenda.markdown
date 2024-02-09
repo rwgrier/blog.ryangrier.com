@@ -8,7 +8,7 @@ tags:
 
 Both [Bear](http://www.bear-writer.com/) and [Agenda](https://www.agenda.com/) are note taking apps for macOS and iOS. Both are great note taking apps that support my favorite markup syntax called [Markdown](https://daringfireball.net/projects/markdown/).
 
-I’ve been a Bear user for over a year now. I use it on a daily basis. I’ve even included it in a post about [My Development Toolbox]({%link _posts/2018/2018-07-31-my-development-toolbox.markdown %}). I really do use it almost every day and I really love the app. I’m happy to pay the yearly subscription fee for it.
+I’ve been a Bear user for over a year now. I use it on a daily basis. I’ve even included it in a post about [My Development Toolbox]({%post_url /2018/2018-07-31-my-development-toolbox %}). I really do use it almost every day and I really love the app. I’m happy to pay the yearly subscription fee for it.
 
 Recently (roughly two months ago), a new note taking app was released for macOS and iOS call Agenda. It looked promising. It also has a few features that Bear does not have. Agenda allows you to link notes to both calendar events (and days) and to people. These custom features are great for taking notes during a meeting. You can have notes and action items from a meeting (or day) linked directly in your note taking app.
 

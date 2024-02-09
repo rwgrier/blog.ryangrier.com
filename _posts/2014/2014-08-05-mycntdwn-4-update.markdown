@@ -9,7 +9,7 @@ tags:
 
 I’m still working on MyCntdwn 4. I promise. Really. I’ve got a lot of tasks that I am slowly working through. I’m in the middle of making it a proper Universal app. I’m probably about 60% through this process. Some issues have come up while working on this, but I’ve been able to manage so far.
 
-My original plan ([way back when]({%link _posts/2014/2014-03-18-seesaw.markdown %})) was to have an update out by the end of April. Obviously that didn’t happen. My updated goal is to have an update ready for the iOS 8 launch. It’s my goal, but the chances of it actually happening are pretty slim. There’s a lot of work to do yet.
+My original plan ([way back when]({%post_url /2014/2014-03-18-seesaw %})) was to have an update out by the end of April. Obviously that didn’t happen. My updated goal is to have an update ready for the iOS 8 launch. It’s my goal, but the chances of it actually happening are pretty slim. There’s a lot of work to do yet.
 
 My plan for MyCntdwn 4 is still way up in the air. The initial version will roll MyCntdwn, MyCntdwn HD and MyCntup into a single app. It will have updated themes. Anything outside of that is up in the air.
 
