@@ -13,19 +13,95 @@ Guard statements are very simple and effective. They ensure the check you are pe
 
 Here’s a very simple example:
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/1400/1*6SG2aURWrmizYBo57LfQCg.png" class="kg-image" alt loading="lazy"></figure>
+<figure class="figure">
+{% highlight swift %}
+func submitForm() {
+	guard (validationResults == .valid) else {
+		return
+	}
+	
+	// Build form request and submit.
+}
+{% endhighlight %}
+
+<figcaption class="figure-caption">Simple Method With Guard</figcaption>
+</figure>
 
 All this does is check the hasValidData variable to see if it’s true. If not, the function exists. This can easily be done with an if statement, like this:
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/1400/1*DQsqZ9zBXqtvaJ2ZunGTSg.png" class="kg-image" alt loading="lazy"></figure>
+<figure class="figure">
+{% highlight swift %}
+func submitForm() {
+	if (validationResults != .valid) {
+		return
+	}
+	
+	// Build form request and submit.
+}
+{% endhighlight %}
+
+<figcaption class="figure-caption">Simple Method With If</figcaption>
+</figure>
 
 Here’s a less simple example. I can’t say more complex, because it’s slightly contrived just to give a taste of how this could go. The guard statement does a few things here. It checks the optional (UITextField.text property) for a value, unwraps it and assigns it locally. If that check fails, the validation fails and the method exits gracefully.
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/1400/1*YF2cAudkrguoNTdAOrocSw.png" class="kg-image" alt loading="lazy"></figure>
+<figure class="figure">
+{% highlight swift %}
+func validateFormGuard() {
+	guard let username = usernameField.text, let password = passwordField.text else {
+		return
+	}
+	
+	guard username.lengthOfBytes(using: String.Encoding.utf8) > 3 else {
+		validationResults = .invalidUsername
+		return
+	}
+	
+	guard password.lengthOfBytes(using: String.Encoding.utf8) > 3 else {
+		validationResults = .invalidPassword
+		return
+	}
+	
+	guard usernameExists(username) else {
+		validationResults = .usernameExists
+		return
+	}
+	
+	validationResults = .valid
+}
+{% endhighlight %}
+
+<figcaption class="figure-caption">Validation Method With Multiple Guards</figcaption>
+</figure>
 
 This could also be done with if statements:
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/1400/1*mfYn4USqgkqKz8xbCfZhmA.png" class="kg-image" alt loading="lazy"></figure>
+<figure class="figure">
+{% highlight swift %}
+func validateFormIfs() {
+	if let username = usernameField.text, let password = passwordField.text {
+		if username.lengthOfBytes(using: String.Encoding.utf8) > 3 {
+			if password.lengthOfBytes(using: String.Encoding.utf8) > 3 {
+				if !usernameExists(username) {
+					validationResults = .valid
+				}
+				else {
+					validationResults = .usernameExists
+				}
+			}
+			else {
+				validationResults = .invalidPassword
+			}
+		}
+		else {
+			validationResults = .invalidUsername
+		}
+	}
+}
+{% endhighlight %}
+
+<figcaption class="figure-caption">Validation Method With Multiple Guards</figcaption>
+</figure>
 
 If you are checking a lot of properties and conditionals, the if statements can become more nested and can get into a [Pyramid of Doom](http://blog.scottlogic.com/2014/12/08/swift-optional-pyramids-of-doom.html) scenario. The guard statement cleans this up and gives you more readable code.
 

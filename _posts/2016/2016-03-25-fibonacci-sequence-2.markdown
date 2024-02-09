@@ -4,7 +4,7 @@ title: Fibonacci Sequence
 date: '2016-03-25 04:00:00'
 ---
 
-I wrote my first post covering the Fibonacci Sequence two years ago in [April 2014]( __GHOST_URL__ /fibonacci-sequence/). The original post was written with Objective-C sample code and only considered one possible solution. A few months later, to my surprise, Apple had a session at WWDC called [Advanced Swift](https://developer.apple.com/videos/play/wwdc2014/404/) which covered some of the approaches used below. I thought this would be a great time to provide an update to the original post but with a bit more detail.
+I wrote my first post covering the Fibonacci Sequence two years ago in [April 2014](/2014/04/09/fibonacci-sequence/). The original post was written with Objective-C sample code and only considered one possible solution. A few months later, to my surprise, Apple had a session at WWDC called [Advanced Swift](https://developer.apple.com/videos/play/wwdc2014/404/) which covered some of the approaches used below. I thought this would be a great time to provide an update to the original post but with a bit more detail.
 
 The [Fibonacci sequence](http://en.wikipedia.org/wiki/Fibonacci_number) is a special sequence of numbers. The first two numbers are 0 and 1. The numbers in the sequence after that build on these first two numbers. The pattern is the next number in the sequence is the sum of the two previous numbers.
 
@@ -22,7 +22,14 @@ Let’s take a look at what I was trying to do during this interview.
 
 The code would look something like this in Swift:
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/1400/1*USm-skf0UX6VDnMNyg5Ylw.png" class="kg-image" alt loading="lazy"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/fibonacci-sequence-2/recursion.png">
+		<div class="card-body mx-auto">
+			<small>Recursive Fibonacci</small>
+		</div>
+	</div>
+</div>
 
 Look at how many times that method is called for a relatively small index (20). 21,891 times! That’s not really a good way to do it.
 
@@ -36,11 +43,25 @@ This technique will help optimize the calls once a result has been generated. Si
 
 I tweaked the code in our recursion example to include memoization. You can see that the code isn’t that much more complex. The caching was easy enough to add. The bonus here is that if we call `fibanocciaAtIndex` for a given index more than once, the answer is immediately returned.
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/1400/1*fiWwNC5fuhpqRkh7iEVeig.png" class="kg-image" alt loading="lazy"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/fibonacci-sequence-2/memoized-1.png">
+		<div class="card-body mx-auto">
+			<small>Memoized Fibonacci First Run</small>
+		</div>
+	</div>
+</div>
 
 This time when I calculated the same relatively small index (20), the call count is _much_ smaller, only 21 times.
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/1400/1*RsmHXIVaq1L2FkUZB-co8A.png" class="kg-image" alt loading="lazy"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/fibonacci-sequence-2/memoized-2.png">
+		<div class="card-body mx-auto">
+			<small>Memoized Fibonacci Second Run</small>
+		</div>
+	</div>
+</div>
 
 I then had it calculate the first 29 Fibonacci numbers. The results were calculated much faster and with fewer calls. This is a huge improvement over the pure recursive appraoch.
 
@@ -52,19 +73,41 @@ I did more research into the Fibonacci Sequence and discovered that you can calc
 
 The Golden ratio is defined mathematically as:
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/568/1*vl8RFBwjvO8VPd4_4d2f9g.png" class="kg-image" alt loading="lazy"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/fibonacci-sequence-2/golden-ratio.png">
+		<div class="card-body mx-auto">
+			<small>Golden Ratio</small>
+		</div>
+	</div>
+</div>
 
 Or φ ≅ 1.618034…
 
 It turns out you can use the Golden ratio to calculate numbers in the Fibonacci sequence. This is [Binet’s Fibonacci number formula](http://mathworld.wolfram.com/BinetsFibonacciNumberFormula.html):
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/928/1*gDIB1ZpNA7g4d21PZLeYTA.png" class="kg-image" alt loading="lazy"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/fibonacci-sequence-2/binet-formula.png">
+		<div class="card-body mx-auto">
+			<small>Binet’s Fibonacci Number Formula</small>
+		</div>
+	</div>
+</div>
 
 This is a much cleaner approach to the original recursive approach above. Instead of dealing with recursion, which can be tricky, this is a straightforward method to calculating Fibonacci numbers.
 
 Here’s what that looks like in code:
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/1400/1*tNdVKyVyHcwsdyDOEgnZmQ.png" class="kg-image" alt loading="lazy"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/fibonacci-sequence-2/binet-formula-code.png">
+		<div class="card-body mx-auto">
+			<small>Binet's Fibonacci Number Formula Code</small>
+		</div>
+	</div>
+</div>
+
 ## Large Numbers
 
 In my original post, I had some thoughts about how to handle larger numbers. Unfortunately, I never made any progress there. I think once I posted the original blog post, I lost interest in dealing with really large numbers. There are a few interesting projects like [OSXGMP](https://github.com/githotto/osxgmp) and [BigInteger](https://github.com/kirsteins/BigInteger) that may work here. I’m including them for reference, in case you’re interested in larger numbers.

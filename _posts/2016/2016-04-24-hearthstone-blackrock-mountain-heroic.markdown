@@ -8,13 +8,20 @@ tags:
 
 I finished it! Finally!
 
-After finishing both [Curse of Naxxramas]( __GHOST_URL__ /hearthstone-curse-of-naxxramas-heroic/) and [The League of Explorers]( __GHOST_URL__ /hearthstone-the-league-of-explorers-heroic/) on Heroic, I _needed_ to wrap things up. I just so happen to finish LOE with only one boss fight left in Blackrock Mountain. It took me a few days to beat Maloriak on heroic, but I did it.
+After finishing both [Curse of Naxxramas](/2016/04/03/hearthstone-curse-of-naxxramas-heroic/) and [The League of Explorers](/2016/04/22/hearthstone-the-league-of-explorers-heroic/) on Heroic, I _needed_ to wrap things up. I just so happen to finish LOE with only one boss fight left in Blackrock Mountain. It took me a few days to beat Maloriak on heroic, but I did it.
 
 Honestly, at the end of this process I hated fighting these bosses. It’s probably not the wisest idea to tackle these like I did (all in a row). But I wanted to finish them before Whisper of the Old Gods expansion came out (next Tuesday).
 
 Don’t get me wrong, some of the fights were a lot of fun figuring out how to beat them on heroic. But fights like Maloriak were just plain evil.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/26524817486_c3ba5797e9_o.png" class="kg-image" alt loading="lazy" width="1787" height="957"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/hearthstone-blackrock-mountain-heroic/hearthstone-blackrock-mountain-heroic-1.png">
+		<div class="card-body mx-auto">
+			<small>Blackrock Mountain</small>
+		</div>
+	</div>
+</div>
 
 As before, here are the decks that I used to tackle this adventure. It was tough and there are a lot of bosses.
 
@@ -52,7 +59,14 @@ As before, here are the decks that I used to tackle this adventure. It was tough
 
 Of all of the adventure heroic cardbacks, this one is my favorite. This is the one I originally wanted and now I finally have it.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/26484759541_0e18444378_o.png" class="kg-image" alt loading="lazy" width="1787" height="957"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/hearthstone-blackrock-mountain-heroic/hearthstone-blackrock-mountain-heroic-2.png">
+		<div class="card-body mx-auto">
+			<small>Blackrock Mountain Card Back</small>
+		</div>
+	</div>
+</div>
 
 I’m so glad I’m done with the adventures for now. Now I just wait for the expansion to come out in a few days.
 

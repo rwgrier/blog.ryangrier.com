@@ -6,11 +6,18 @@ tags:
 - video-games
 ---
 
-Last week I finished another Hearthstone adventure on Heroic. Previously, I had finished the [Curse of Naxxramas on Heroic]( __GHOST_URL__ /hearthstone-curse-of-naxxramas-heroic/). I’m going through to finish them all.
+Last week I finished another Hearthstone adventure on Heroic. Previously, I had finished the [Curse of Naxxramas on Heroic](/2016/04/03/hearthstone-curse-of-naxxramas-heroic/). I’m going through to finish them all.
 
 I started both Blackrock Mountain and The League of Explorer’s at the same time. I had been alternating between BRM and LOE bosses. It just so happens that I’ve finshed up this adventure first.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/26277942660_b5177118eb_o.png" class="kg-image" alt loading="lazy" width="1334" height="750"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/hearthstone-the-league-of-explorers-heroic/hearthstone-the-league-of-explorers-heroic-1.png">
+		<div class="card-body mx-auto">
+			<small>The League of Explorers</small>
+		</div>
+	</div>
+</div>
 
 Below are the decks that I used to get through these bosses. I’m not sure how viable they will be once they tweak some of the cards for the upcoming patch.
 
@@ -40,6 +47,15 @@ Below are the decks that I used to get through these bosses. I’m not sure how 
 - Rafaam Unleashed: [Rafaam Unleash Tempo Mage](http://www.hearthpwn.com/decks/391948-heroic-rafaam-unleash-tempo-mage)
 
 All of that work got me this nifty card back. It’s not my favorite, but I like it.
+
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/hearthstone-the-league-of-explorers-heroic/hearthstone-the-league-of-explorers-heroic-2.png">
+		<div class="card-body mx-auto">
+			<small>The League of Explorers Card Back</small>
+		</div>
+	</div>
+</div>
 
 <figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/25945853124_0030d7afaa_o.png" class="kg-image" alt loading="lazy" width="1334" height="750"></figure>
 

@@ -24,13 +24,27 @@ I use it to track my activity/fitness level. With a FitBit, tracking steps was e
 
 Now I track all of my activity with my Apple Watch. I use the three activity rings (Move, Exercise, and Stand). I find myself chasing the activity rings. I can usually fill all three rings every day without much trouble. But on days where I’m feeling lazy, I’ll go out of my way to fill the rings. It reminds me of walking around my house with my FitBit on trying to get to my 10,000th step for the day.
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/750/1*NZeTZz2k6_KLk91NBNyCUw.jpeg" class="kg-image" alt loading="lazy"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/how-i-use-apple-watch/achievement.jpg">
+		<div class="card-body mx-auto">
+			<small>Apple Fitness Achievement</small>
+		</div>
+	</div>
+</div>
 
 I also use Siri in the Apple Watch to set some simple timers. If I’m making something and know that I need to check back in a few minutes, I’ll ask Siri to set a timer for x minutes. It works really well for that.
 
 This may seem obvious, but I use the watch to tell time. I really do. It’s a nice watch. There are a few watch faces that I like to cycle through.
 
-<figure class="kg-card kg-image-card"><img src="https://miro.medium.com/max/1400/1*2efVToNAzi-ThDcM_OSscQ.png" class="kg-image" alt loading="lazy"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/how-i-use-apple-watch/faces.png">
+		<div class="card-body mx-auto">
+			<small>Apple Watch Faces</small>
+		</div>
+	</div>
+</div>
 
 Apple Watch has some really nice Maps integration. The watch will tap your wrist when it’s time to turn. I can’t tell the difference between the “turn left” and “turn right” taps, it’s probably because I don’t use it enough.
 

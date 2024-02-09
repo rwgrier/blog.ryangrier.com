@@ -8,7 +8,14 @@ tags:
 
 I’ve finally beaten the Hearthstone: Curse of Naxxramas adventure on Heroic. It’s been a huge pain in the butt, but I did it.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/26126113212_7777ff9ab0_o.png" class="kg-image" alt loading="lazy" width="1417" height="838"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/hearthstone-curse-of-naxxramas-heroic/hearthstone-curse-of-naxxramas-heroic-1.png">
+		<div class="card-body mx-auto">
+			<small>Curse of Naxxramas</small>
+		</div>
+	</div>
+</div>
 
 Here are the decks that I’ve used.
 
@@ -41,7 +48,16 @@ Here are the decks that I’ve used.
 
 - Sapphiron: [Liquid’Amaz Heroic Sapphiron Takedown](http://www.hearthpwn.com/decks/92358-liquidamaz-heroic-sapphiron-takedown)
 - Kel’Thuzad: [Inner Spirit](http://www.hearthhead.com/decks/inner-spirit)
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/26192642826_ec16c3a0e7_h.jpg" class="kg-image" alt loading="lazy" width="1415" height="838"></figure>
 
-I think I’ll tackle The League of Explorers on Heroic next. I’ve already finished The League of Explorers on Normal and the Class challenges. I haven’t even finshed Blackrock Mountain on Normal yet, so I may save that for last.
+
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/hearthstone-curse-of-naxxramas-heroic/hearthstone-curse-of-naxxramas-heroic-1.png">
+		<div class="card-body mx-auto">
+			<small>Curse of Naxxramas Card Back</small>
+		</div>
+	</div>
+</div>
+
+I think I’ll tackle The League of Explorers on Heroic next. I’ve already finished The League of Explorers on Normal and the Class challenges. I haven’t even finished Blackrock Mountain on Normal yet, so I may save that for last.
 

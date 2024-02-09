@@ -12,7 +12,15 @@ I waited until all of the adventure wings were released before even starting. An
 
 I did quite a bit of netdecking for this adventure. I probably didn’t have to, but I did. Oh well. Here are a list of decks that I used to complete One Night in Karazhan on heroic difficulty.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/30392737546_3bb84df6ba_o.png" class="kg-image" alt loading="lazy" width="2048" height="1536"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/hearthstone-one-night-in-karazhan-heroic/hearthstone-one-night-in-karazhan-heroic-1.png">
+		<div class="card-body mx-auto">
+			<small>One Night in Karazhan</small>
+		</div>
+	</div>
+</div>
+
 ## Prologue:
 
 - Prince Malchezaar: The deck is pre-built for you
@@ -40,7 +48,15 @@ I did quite a bit of netdecking for this adventure. I probably didn’t have to,
 - Shade of Aran: [Heroic Shade of Aran](http://www.hearthpwn.com/decks/653038-heroic-shade-of-aran)
 - Netherspite: [[Heroic] Netherspite Easy Lock](http://www.hearthpwn.com/decks/625635-heroic-netherspite-easy-lock)
 - Free Medivh!: [Heroic Free Medivh (Malchezaar)](http://www.hearthpwn.com/decks/653033-heroic-free-medivh-malchezaar)
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/30428876735_f79582b1eb_o.png" class="kg-image" alt loading="lazy" width="2048" height="1536"></figure>
+
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/hearthstone-one-night-in-karazhan-heroic/hearthstone-one-night-in-karazhan-heroic-2.png">
+		<div class="card-body mx-auto">
+			<small>One Night in Karazhan Card Back</small>
+		</div>
+	</div>
+</div>
 
 The hardest battle for me was the chess match. I spent a few days, a handful of matches a night, trying to win. It finally clicked for me and I won pretty decisively.
 

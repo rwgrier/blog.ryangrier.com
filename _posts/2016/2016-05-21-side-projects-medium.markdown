@@ -15,7 +15,7 @@ Here are a few examples of side projects I’ve worked on.
 
 ## DS\_Store Cleaner
 
-[DS\_Store Cleaner]( __GHOST_URL__ /apps) was my first notable side project. I started this project a long time ago when I was a Java developer. It was earlier in my career. I was working with files on Mac OS X, Windows and Linux. Mac OS X creates and maintains (hidden) files call [.DS\_Store](https://en.wikipedia.org/wiki/.DS_Store) files, which are both annoying to deal with and — at one point in time — were a security risk.
+[DS\_Store Cleaner](https://www.ryangrier.com/portfolio/) was my first notable side project. I started this project a long time ago when I was a Java developer. It was earlier in my career. I was working with files on Mac OS X, Windows and Linux. Mac OS X creates and maintains (hidden) files call [.DS\_Store](https://en.wikipedia.org/wiki/.DS_Store) files, which are both annoying to deal with and — at one point in time — were a security risk.
 
 The app was originally a small Java app. When I decided to distribute it, I used a tool, possibly just an Ant task, to create a Mac OS X wrapper for my Java app. Looking back, it was terrible. The original Java/hybrid binary I shipped stopped working right around 2010/2011.
 
@@ -39,7 +39,7 @@ Voice360 has been retired. The service isn’t even available anymore. I killed 
 
 ## MyCntdwn
 
-[MyCntdwn](http://t.umblr.com/redirect?z=http%3A%2F%2Fitunes.com%2Fapps%2Fmycntdwn&t=N2M3N2Y2MTdkNTNjMTMzMmI0MGM2Y2YwYWEyYmI1ZDU0OTI4ZDg2OSxUbU4zdWpESg%3D%3D) was my most successful side project. In fact this side project changed my career path.
+[MyCntdwn](https://www.ryangrier.com/portfolio/) was my most successful side project. In fact this side project changed my career path.
 
 This idea started when the iOS SDK was announced. I was looking for something to do with it. My brother suggested a countdown app. It sounded easy enough, so I got right to it. The App Store launched in July of 2008. I had MyCntdwn in the store in October of the same year.
 
@@ -51,7 +51,7 @@ I’m still working on MyCntdwn. I swear. I really am. I’ve just been in a bit
 
 ## Showers
 
-[Showers](http://t.umblr.com/redirect?z=http%3A%2F%2Fitunes.com%2Fapps%2Fshowers&t=YjUzMmU5Mjk0ZWRkYWE1ODgxNzI5ODA2NmMxYzMwZDhkM2UxNDM1MixUbU4zdWpESg%3D%3D) was a project that I thought of and wrote 90% of it in a weekend. I had the idea for an app that would include rain sounds, plus variable thunder sounds.
+[Showers](https://www.ryangrier.com/portfolio/) was a project that I thought of and wrote 90% of it in a weekend. I had the idea for an app that would include rain sounds, plus variable thunder sounds.
 
 Showers was by no means a financial success. I never thought it would really be one. It was an experimental app for me. I got to learn quite a bit more about AVPlayer, weighted random numbers, Apple Watch and more.
 
@@ -61,7 +61,7 @@ I’ve made a few dollars from Showers. Last Summer, I decided to make the app f
 
 ## Beer Styles Guidelines
 
-I’ve been a homebrewer for the past few years. It’s been a fun hobby. As part of that hobby, I’ve been trying to learn more about the various beer styles. Drinking new beer styles and examples is most of the fun. [Beer Style Guidelines: BJCP 2015](http://t.umblr.com/redirect?z=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fbeer-styles-bjcp-2015%2Fid998139111%3Fls%3D1%26mt%3D8&t=ZDM1NWZlMTVmZWEzODNkOTI4NGIwOTUyZDcxYmE3Y2YwZGM3MzE1NSxUbU4zdWpESg%3D%3D) fits perfectly into that hobby.
+I’ve been a homebrewer for the past few years. It’s been a fun hobby. As part of that hobby, I’ve been trying to learn more about the various beer styles. Drinking new beer styles and examples is most of the fun. [Beer Style Guidelines: BJCP 2015](https://www.beerstyleguidelines.app) fits perfectly into that hobby.
 
 There is a certification you can get for judging in homebrew competitions. It’s called the [Beer Judge Certification Program](http://www.bjcp.org/) (BJCP). For this program, you learn more about the various beer styles including origin, tasting notes and even commercial examples.
 

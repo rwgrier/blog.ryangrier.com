@@ -36,4 +36,11 @@ I’ve added the deck to [Hearthpwn](http://www.hearthpwn.com/decks/423630-mage-
 
 There isn’t a lot of time left to try this out, so get to it.
 
-<figure class="kg-card kg-image-card"><img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/hfheij5/2022/08/24087509913_9321523325_h.jpg" class="kg-image" alt loading="lazy" width="399" height="1600"></figure>
+<div class="py-3">
+	<div class="card shadow-sm">
+		<img class="img-fluid" src="/public/images/2016/hearthstone-miniature-warfare-tavern-brawl/deck.jpg">
+		<div class="card-body mx-auto">
+			<small>Miniature Warfare Tavern Brawl Deck</small>
+		</div>
+	</div>
+</div>
