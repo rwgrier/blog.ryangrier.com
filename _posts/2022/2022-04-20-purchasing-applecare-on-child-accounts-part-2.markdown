@@ -4,7 +4,7 @@ title: Purchasing AppleCare+ on Child Accounts Part 2
 date: '2022-04-20 00:00:00'
 ---
 
-This is the second and final blog post about purchasing AppleCare+ on Child Accounts. [Part one](/2022/04/12/purchasing-applecare-on-child-accounts/) outlined the saga. I wanted to follow up in a post and mention how things turned out.
+This is the second and final blog post about purchasing AppleCare+ on Child Accounts. [Part one]({%post_url /2022/2022-04-12-purchasing-applecare-on-child-accounts %}) outlined the saga. I wanted to follow up in a post and mention how things turned out.
 
 I had rescheduled a call with my Apple Support contact for this previous Monday (April 18th). This call was also set for 8pm, like the last one.
 

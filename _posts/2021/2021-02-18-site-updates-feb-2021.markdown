@@ -30,7 +30,7 @@ I’ve also implemented dark mode support on the site. I’ve been using a [Jeky
 	</div>
 </div>
 
-The lack of categories is something that’s been bugging me for a long time. I’ve finally added support for them. Well, kind of. Jekyll (the software that runs this site) already supports categories, but the Lanyon theme doesn’t (out of the box). Adding support for categories was easy enough. Each post will show the categories for that post (see the image above). I’ve also created a [categories page](/categories). So you can browse posts by categories.
+The lack of categories is something that’s been bugging me for a long time. I’ve finally added support for them. Well, kind of. Jekyll (the software that runs this site) already supports categories, but the Lanyon theme doesn’t (out of the box). Adding support for categories was easy enough. Each post will show the categories for that post (see the image above). I’ve also created a [categories page]{% link /categories.markdown %}. So you can browse posts by categories.
 
 I’ve been thinking about a complete redesign for the site. I’m not sure if I want a new Jekyll theme, or if I want to roll my own design for the site. A new Jekyll theme would be an easy way to get a new look. The themes I’ve seen out there aren’t quite what I want. I’m not sure I have the time (or energy) to roll my own new theme/look for the site.
 

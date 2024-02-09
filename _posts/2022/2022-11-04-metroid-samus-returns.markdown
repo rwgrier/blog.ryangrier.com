@@ -12,7 +12,7 @@ Metroid: Samus Returns is a game for the Nintendo [2DS](https://en.wikipedia.org
 
 I've had this game since launch, but never completed it. I started it a few times, but always got distracted and never finished it.
 
-When I finished [Ori and the Will of the Wisps](/2022/10/10/ori-and-the-will-of-the-wisps/), I got the itch to play a proper Metroid game. I decided to start Metroid: Samus Returns over with the intention of completing it. I finished it Wednesday.
+When I finished [Ori and the Will of the Wisps]({%post_url /2022/2022-10-10-ori-and-the-will-of-the-wisps %}), I got the itch to play a proper Metroid game. I decided to start Metroid: Samus Returns over with the intention of completing it. I finished it Wednesday.
 
 <div class="py-3">
 	<div class="card shadow-sm">

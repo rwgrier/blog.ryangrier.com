@@ -19,7 +19,7 @@ I've read a lot of books in 2022. As of this posting, I've completed 45 books in
 
 ### Favorite
 
-My favorite book this year was [_Leviathan Falls_](https://en.wikipedia.org/wiki/Leviathan_Falls) by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey). Leviathan Falls was the final book in [The Expanse](https://en.wikipedia.org/wiki/The_Expanse_(novel_series)) series. I've [written](/2022/04/09/on-finishng-the-expanse/) about the series before. I really enjoyed how this book wrapped up the series.
+My favorite book this year was [_Leviathan Falls_](https://en.wikipedia.org/wiki/Leviathan_Falls) by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey). Leviathan Falls was the final book in [The Expanse](https://en.wikipedia.org/wiki/The_Expanse_(novel_series)) series. I've [written]({%post_url /2022/2022-04-09-on-finishng-the-expanse %}) about the series before. I really enjoyed how this book wrapped up the series.
 
 The Expanse series was a slow burn (for me), but well worth the trip.
 
@@ -41,7 +41,7 @@ I didn't watch a lot of movies in 2022. Most of the ones I did watch were not me
 
 ### Favorite
 
-_[The Matrix Resurrections](https://en.wikipedia.org/wiki/The_Matrix_Resurrections)_ was released in 2021, but I watched it in early 2022. I [wrote](/2022/01/14/the-matrix-movies/) about this movie and the other Matrix movies earlier this year.
+_[The Matrix Resurrections](https://en.wikipedia.org/wiki/The_Matrix_Resurrections)_ was released in 2021, but I watched it in early 2022. I [wrote]({%post_url /2022/2022-01-14-the-matrix-movies %}) about this movie and the other Matrix movies earlier this year.
 
 This movie wasn't as good as the original Matrix movie. The original is one of my favorites.
 
@@ -82,7 +82,7 @@ The show ended on such a great cliffhanger too. I cannot wait for the next seaso
 
 My runner up is a Star Wars show. Of course it was. 🙂 But [_Andor_](https://en.wikipedia.org/wiki/Andor_(TV_series)) really was a good show.
 
-_Andor_ was a very close runner up. I [wrote](/2022/11/30/star-wars-andor/) about _Andor_ earlier this year. I'm not going to say too much about it here. But I loved this show.
+_Andor_ was a very close runner up. I [wrote]({%post_url /2022/2022-11-30-star-wars-andor %}) about _Andor_ earlier this year. I'm not going to say too much about it here. But I loved this show.
 
 ## Video Games
 
@@ -90,13 +90,13 @@ I didn't play a lot of games this year. I think I played more games this year th
 
 ### Favorite
 
-My favorite game of 2022 is _[Ori and the Will of the Wisps](https://en.wikipedia.org/wiki/Ori_and_the_Will_of_the_Wisps)_. The game is from 2020, but I _finally_ played it this year. I also [wrote](/2022/10/10/ori-and-the-will-of-the-wisps/) about _Ori and the Will of the Wisps_ earlier this year.
+My favorite game of 2022 is _[Ori and the Will of the Wisps](https://en.wikipedia.org/wiki/Ori_and_the_Will_of_the_Wisps)_. The game is from 2020, but I _finally_ played it this year. I also [wrote]({%post_url /2022/2022-10-10-ori-and-the-will-of-the-wisps %}) about _Ori and the Will of the Wisps_ earlier this year.
 
 I played this game prior to the first game in the series [_Ori and the Blind Forrest_](https://www.orithegame.com/blind-forest/). I recently bought the first game (on sale) and will probably be playing through sometime soon. 🤞
 
 ### Runner up
 
-This was a hard choice. I ended up going with _[Stray](https://en.wikipedia.org/wiki/Stray_(video_game))_, simply because it was from this year. _Stray_ is also the freshest game in my mind. I [finished it](/2022/12/22/stray/) last week. It was a really beautiful game.
+This was a hard choice. I ended up going with _[Stray](https://en.wikipedia.org/wiki/Stray_(video_game))_, simply because it was from this year. _Stray_ is also the freshest game in my mind. I [finished it]({%post_url /2022/2022-12-22-stray %}) last week. It was a really beautiful game.
 
 ## 2023
 

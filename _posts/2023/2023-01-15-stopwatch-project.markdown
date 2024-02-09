@@ -6,7 +6,7 @@ tags:
 - app-development
 ---
 
-I'm still looking for a new project to work on. Previously, I had mentioned that I built a [Podcast Downloader](/2022/11/23/podcast-downloader/). That project will (still) likely never see the light of day.
+I'm still looking for a new project to work on. Previously, I had mentioned that I built a [Podcast Downloader]({%post_url /2022/2022-11-23-podcast-downloader %}). That project will (still) likely never see the light of day.
 
 I've also been working on something else. This is a replica of Apple's Stopwatch functionality in the [Clock app](https://apps.apple.com/us/app/clock/id1584215688). This project has been open-sourced on my Github account. You can view the project [here](https://github.com/rwgrier/Stopwatch-Experiment).
 

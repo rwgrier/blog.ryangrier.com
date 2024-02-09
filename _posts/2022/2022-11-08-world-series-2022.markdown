@@ -6,7 +6,7 @@ tags:
 - sportsball
 ---
 
-Can you believe the [Philadelphia Phillies](https://www.mlb.com/phillies) made it to the [World Series](https://en.wikipedia.org/wiki/World_Series)? Me either. I love that they made it. I've [said before](/2022/10/30/phillies/) that every postseason game was free baseball and I still believe that.
+Can you believe the [Philadelphia Phillies](https://www.mlb.com/phillies) made it to the [World Series](https://en.wikipedia.org/wiki/World_Series)? Me either. I love that they made it. I've [said before]({%post_url /2022/2022-10-30-phillies %}) that every postseason game was free baseball and I still believe that.
 
 [Houston](https://www.mlb.com/astros) deserves some props. They were undefeated in the playoffs until meeting the Phillies. Then, in the World Series, they didn't lose after game 3. I really think they had more depth than we had and just outlasted us. I still think the Astros have the [cheating scandal](https://en.wikipedia.org/wiki/Houston_Astros_sign_stealing_scandal) looming over them. I still think of them as cheaters.
 

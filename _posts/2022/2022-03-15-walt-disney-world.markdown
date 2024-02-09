@@ -6,7 +6,7 @@ tags:
 - vacation
 ---
 
-This is the final blog post about our [trip to Florida](/2022/02/04/trip-to-florida/) from January. This post is all about our trip to [Walt Disney World](https://disneyworld.disney.go.com/).
+This is the final blog post about our [trip to Florida]({%post_url /2022/2022-02-04-trip-to-florida %}) from January. This post is all about our trip to [Walt Disney World](https://disneyworld.disney.go.com/).
 
 I know it’s March, I’ve been slow to write these.
 

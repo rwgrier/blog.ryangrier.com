@@ -8,7 +8,7 @@ tags:
 
 I'm not currently playing any video games.
 
-I just finished [Assemble with Care](https://www.assemblegame.com) by [ustwo Games](https://www.ustwogames.co.uk). They made the Monument Valley games I [previously wrote about](/2022/10/17/revisiting-monument-valley-1-2/). Assemble with Care was a fun little game. Each level (or story section) was small enough to complete in a single sitting. It also had a nice story.
+I just finished [Assemble with Care](https://www.assemblegame.com) by [ustwo Games](https://www.ustwogames.co.uk). They made the Monument Valley games I [previously wrote about]({%post_url /2022/2022-10-17-revisiting-monument-valley-1-2 %}). Assemble with Care was a fun little game. Each level (or story section) was small enough to complete in a single sitting. It also had a nice story.
 
 I'm not 100% sure what I should play next. I have a ton of games on my list. But here are my most attractive options (right now).
 

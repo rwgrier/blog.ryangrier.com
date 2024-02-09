@@ -19,7 +19,7 @@ This update includes:
 
 The key feature for this release is [macOS](https://www.apple.com/macos/) support via [Mac Catalyst](https://developer.apple.com/mac-catalyst/).
 
-I [had previously](/2022/07/26/the-future-of-beer-style-guidelines/) mentioned that I planned on adding Mac Catalyst support to Beer Style Guidelines. I did it. It's not perfect, but it runs pretty well on macOS.
+I [had previously]({%post_url /2022/2022-07-26-the-future-of-beer-style-guidelines %}) mentioned that I planned on adding Mac Catalyst support to Beer Style Guidelines. I did it. It's not perfect, but it runs pretty well on macOS.
 
 This is also the final large-scale update I plan on making to Beer Style Guidelines for a while. If there are crashing (or other major) issues I'll fix them.
 

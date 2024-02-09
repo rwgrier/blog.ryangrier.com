@@ -8,7 +8,7 @@ tags:
 
 I've been on vacation this week. We haven't gone anywhere, it's more of a [staycation](https://en.wikipedia.org/wiki/Staycation). I've been doing a bunch of chores around the house that have been on hold because of soccer and other obligations. I've also gotten a bit of time to relax and enjoy some things that I want to.
 
-Today, I finished [Stray](https://stray.game) on the [Playstation 5](https://www.playstation.com/en-us/ps5/). I [was interested](/2022/11/24/currently-playing/) in playing Stray, but a [comment](https://mastodon.social/@Llokalla/109396143069427790) from [José Ibañez](https://mastodon.social/@Llokalla) got me to give it a shot.
+Today, I finished [Stray](https://stray.game) on the [Playstation 5](https://www.playstation.com/en-us/ps5/). I [was interested]({%post_url /2022/2022-11-24-currently-playing %}) in playing Stray, but a [comment](https://mastodon.social/@Llokalla/109396143069427790) from [José Ibañez](https://mastodon.social/@Llokalla) got me to give it a shot.
 
 Stray is a game where you play as a cat in a post-apocalyptic world who has been separated from their family (fellow cats). You are just trying to get back to your family. Along the way, you meet a lot of robots, explore some great environments and solve many puzzles.
 

@@ -12,7 +12,7 @@ Right now is no different. I'm reading two books and listening to a third.
 
 ### Billy Summers
 
-As I've [said](/2022/11/02/borrowed/) [before](/2022/11/16/book-renewal/), I'm reading [Billy Summers](https://en.wikipedia.org/wiki/Billy_Summers) by [Stephen King](https://stephenking.com/) on my [Kindle](https://en.wikipedia.org/wiki/Amazon_Kindle).
+As I've [said]({%post_url /2022/2022-11-02-borrowed %}) [before]({%post_url /2022/2022-11-16-book-renewal %}), I'm reading [Billy Summers](https://en.wikipedia.org/wiki/Billy_Summers) by [Stephen King](https://stephenking.com/) on my [Kindle](https://en.wikipedia.org/wiki/Amazon_Kindle).
 
 ### Managing Humans
 

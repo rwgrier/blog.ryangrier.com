@@ -6,7 +6,7 @@ tags:
 - life
 ---
 
-I [recently posted](/2022/11/11/on-twitter/) about Twitter. At the time, I couldn't stop watching the slow-motion Twitter train wreck. It turns out, I got sick of it very shortly after publishing that post. 
+I [recently posted]({%post_url /2022/2022-11-11-on-twitter %}) about Twitter. At the time, I couldn't stop watching the slow-motion Twitter train wreck. It turns out, I got sick of it very shortly after publishing that post. 
 
 Today, I decided to deactivate my Twitter account. That's something I never thought I would do. But here we are. Twitter has become something else. Something different. Something I don't really enjoy anymore. I think it's been happening for a while, and this was the event that got me to deactivate my account.
 
