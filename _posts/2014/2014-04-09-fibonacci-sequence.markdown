@@ -12,11 +12,17 @@ Last summer I was interviewing at multiple companies. One interviewer asked me h
 
 For example:
 
-    Given 0; return 0.
-    Given 1; return 1.
-    Given 2; return 1.
-    ...
-    Given 6; return 8.
+<figure class="figure">
+{% highlight markdown %}
+Given 0; return 0.
+Given 1; return 1.
+Given 2; return 1.
+...
+Given 6; return 8.
+{% endhighlight %}
+
+<figcaption class="figure-caption">Sample Fibonacci Numbers</figcaption>
+</figure>
 
 I started by writing a method that would solve the problem through brute force using [recursion](https://en.wikipedia.org/wiki/Recursion), but it wasn’t really what the interviewer was looking for. I fumbled through the question and didn’t get an offer from that company.
 
@@ -44,24 +50,30 @@ Here’s what that looks like in code:
 
 ## Obj-c code
 
-    #define SQRT_5 sqrt(5)
-    #define PHI ((1 + SQRT_5) / 2)
-    
-    ...
-    
-    + (unsigned long long) fibonacciAtIndex: (NSUInteger) index {
-    
-        if (index < 2) {
-            // Save some cycles.
-            return index;
-        }
-    
-        // x(n) = (Phi^n - (-Phi)^-n) / √5
-        long double numerator = powl(PHI, index) - powl((long double) (-1.0 * PHI), -1.0 * index);
-        long double fibonacci = numerator / SQRT_5;
-    
-        return (unsigned long long) fibonacci;
+<figure class="figure">
+{% highlight objective_c %}
+#define SQRT_5 sqrt(5)
+#define PHI ((1 + SQRT_5) / 2)
+
+...
+
++ (unsigned long long) fibonacciAtIndex: (NSUInteger) index {
+
+    if (index < 2) {
+        // Save some cycles.
+        return index;
     }
+
+    // x(n) = (Phi^n - (-Phi)^-n) / √5
+    long double numerator = powl(PHI, index) - powl((long double) (-1.0 * PHI), -1.0 * index);
+    long double fibonacci = numerator / SQRT_5;
+
+    return (unsigned long long) fibonacci;
+}
+{% endhighlight %}
+
+<figcaption class="figure-caption">Objective-C Code</figcaption>
+</figure>
 
 ## Larger numbers?
 

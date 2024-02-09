@@ -29,7 +29,7 @@ This has kind of been the entire point of this exercise and I’m finally gettin
 
 I know I said I would try to speed things up, I’m trying. It’s tough. We have a lot going on.
 
-This update has actually been done for a little while. I have been sitting on it while I [decide what I do with my site]( __GHOST_URL__ /site-update-my-move-from-tumblr/). The code has been sitting on a branch for over two weeks. I just needed to write this post and move on.
+This update has actually been done for a little while. I have been sitting on it while I [decide what I do with my site]({%link _posts/2017/2017-10-20-site-update-my-move-from-tumblr.markdown %}). The code has been sitting on a branch for over two weeks. I just needed to write this post and move on.
 
 ## Other Posts in the Series
 

@@ -7,7 +7,7 @@ tags:
 - app-development
 ---
 
-This is the second blog post in my new blog series on data syncing in an app. You can read the first one [here]( __GHOST_URL__ /data-sync-series-part-1/). This took me a little longer than I wanted, I got busy with the kids and end of year school stuff for them. Sorry for any delay.
+This is the second blog post in my new blog series on data syncing in an app. You can read the first one [here]({%link _posts/2017/2017-05-12-data-sync-series-part-1.markdown %}). This took me a little longer than I wanted, I got busy with the kids and end of year school stuff for them. Sorry for any delay.
 
 In this post, I’m going to take a look at the various types of data synchronization that exist and outline which one I’ll be using in the new app that I develop.
 
