@@ -2,9 +2,7 @@
 layout: post
 title: Sad Day
 date: '2019-10-22 17:30:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 Yesterday was a bit of a sad day for me. I retired two apps of mine from the iOS App Store. I removed both MyCntdwn and Showers: White Noise Generator from sale.

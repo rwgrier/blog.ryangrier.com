@@ -2,8 +2,7 @@
 layout: post
 title: Site Updates (Jul 2021)
 date: '2021-07-16 13:30:00'
-tags:
-- blog
+categories: [blog]
 ---
 
 I’ve just wrapped up a handful of changes to the site. The site mostly looks the same, but there have been pretty large changes under the hood.

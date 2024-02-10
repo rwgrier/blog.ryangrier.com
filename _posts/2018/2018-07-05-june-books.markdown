@@ -2,8 +2,7 @@
 layout: post
 title: June Books - Reading is for Losers
 date: '2018-07-05 23:00:00'
-tags:
-- books
+categories: [books]
 ---
 
 Just when I thought I was doing well with reading, it all went wrong. June was a rough month. It should have been a great one for reading, but it just wasn’t.

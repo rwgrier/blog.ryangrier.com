@@ -2,8 +2,7 @@
 layout: post
 title: 'The Legend of Zelda: Breath of the Wild'
 date: '2020-08-20 01:30:00'
-tags:
-- video-games
+categories: [video games]
 ---
 
 [The Legend of Zelda: Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild) was _the_ game to get when the [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) launched. It was the first game I bought when I got my Switch. People love this game. It appears on so many “best games on Switch” lists that I see online.

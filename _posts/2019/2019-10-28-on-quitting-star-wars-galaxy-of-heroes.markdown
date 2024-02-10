@@ -2,8 +2,7 @@
 layout: post
 title: On Quitting Star Wars Galaxy of Heroes
 date: '2019-10-28 17:30:00'
-tags:
-- video-games
+categories: [video games]
 ---
 
 I recently called it quits on [Star Wars Galaxy of Heroes](https://www.ea.com/games/starwars/galaxy-of-heroes). I had been playing it for almost four years. I know [I’ve posted]({%post_url /2017/2017-11-05-video-games-and-gaming %}) about this game before.

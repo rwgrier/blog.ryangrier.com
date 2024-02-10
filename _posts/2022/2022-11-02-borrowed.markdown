@@ -2,8 +2,7 @@
 layout: post
 title: Borrowed Book
 date: '2022-11-02 23:27:44'
-tags:
-- books
+categories: [books]
 ---
 
 I borrowed an [ebook](https://en.wikipedia.org/wiki/Ebook) from my local library for the first time yesterday. I've borrowed books from the library, but never an ebook. I wasn't sure how it would work.

@@ -2,9 +2,7 @@
 layout: post
 title: Swift Defer Statement
 date: '2016-03-15 13:24:52'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 Swift 2.0 included a number of new language statements. I recently wrote about the [Swift Guard Statement]({%post_url /2016/2016-03-08-swift-guard-statement %}). Defer is another statement new to Swift 2.0. Honestly, I don’t use defer as much as guard, but it can be extremely useful.

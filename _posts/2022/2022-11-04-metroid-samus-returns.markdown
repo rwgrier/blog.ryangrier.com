@@ -2,8 +2,7 @@
 layout: post
 title: 'Metroid: Samus Returns'
 date: '2022-11-04 23:34:31'
-tags:
-- video-games
+categories: [video games]
 ---
 
 I finished Metroid: Samus Returns on Wednesday night (during the Phillies game).

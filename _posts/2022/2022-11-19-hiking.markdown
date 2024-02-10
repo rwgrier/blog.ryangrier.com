@@ -2,9 +2,7 @@
 layout: post
 title: Hiking
 date: '2022-11-19 18:56:59'
-tags:
-- life
-- fitness
+categories: [life, fitness]
 ---
 
 I love hiking. I don't get to go as much as I would like. But I try to hike whenever possible.

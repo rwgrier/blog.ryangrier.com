@@ -2,9 +2,7 @@
 layout: post
 title: 'UIKeyCommand — Part 3: macOS Catalyst Menu Items'
 date: '2021-04-28 23:30:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 This is the final post in a series on adding UIKeyCommands (keyboard shortcuts) to an iOS app. In this post, we’ll cover how to add menu bar items to a macOS Catalyst app using UIKeyCommands.

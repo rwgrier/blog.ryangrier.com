@@ -2,9 +2,7 @@
 layout: post
 title: Finally Watching WWDC 2019 Videos
 date: '2019-07-11 00:30:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I’ve finally had a minute (or 60) to sit down and start watching videos from WWDC 2019. I know, I’m over a month late to the show.

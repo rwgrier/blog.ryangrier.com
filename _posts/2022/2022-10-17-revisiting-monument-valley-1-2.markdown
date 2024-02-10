@@ -2,8 +2,7 @@
 layout: post
 title: Monument Valley 1 & 2
 date: '2022-10-17 23:57:12'
-tags:
-- video-games
+categories: [video games]
 ---
 
 I recently revisited [Monument Valley](https://apps.apple.com/us/app/monument-valley/id728293409) & [Monument Valley 2](https://apps.apple.com/us/app/monument-valley-2/id1187265767). I played them both when they originally came out in 2014 & 2017 respectively. They are now both available on [Apple Arcade](https://www.apple.com/apple-arcade/) (as [Monument Valley+](https://apps.apple.com/us/app/monument-valley/id1551940922) and [Monument Valley 2+](https://apps.apple.com/us/app/monument-valley-2/id1583222406)).

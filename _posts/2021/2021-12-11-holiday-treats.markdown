@@ -2,8 +2,7 @@
 layout: post
 title: Holiday Treats
 date: '2021-12-11 00:30:00'
-tags:
-- christmas
+categories: [christmas]
 ---
 
 It’s the Holiday Season and around this time year, I usually indulge a little bit with some extra treats.

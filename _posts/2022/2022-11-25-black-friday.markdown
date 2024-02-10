@@ -2,8 +2,7 @@
 layout: post
 title: Black Friday
 date: '2022-11-25 13:58:35'
-tags:
-- life
+categories: [life]
 ---
 
 It's Black Friday.

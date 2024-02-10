@@ -2,8 +2,7 @@
 layout: post
 title: Ori and the Will of the Wisps
 date: '2022-10-10 00:44:45'
-tags:
-- video-games
+categories: [video games]
 ---
 
 Last week, I finished the game [Ori and the Will of the Wisps](https://www.orithegame.com). I played through it on the Nintendo Switch. I bought the game a while ago when it was on sale and haven't played it until recently.

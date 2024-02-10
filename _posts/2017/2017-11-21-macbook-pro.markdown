@@ -2,8 +2,7 @@
 layout: post
 title: MacBook Pro
 date: '2017-11-21 20:00:00'
-tags:
-- app-development
+categories: [app development]
 ---
 
 Over the Summer I bought a new Mac. This is the first new Mac I’ve bought since 2010. I was overdue.

@@ -2,8 +2,7 @@
 layout: post
 title: iPad Pro (9.7")
 date: '2016-10-24 16:30:05'
-tags:
-- ipad
+categories: [iPad]
 ---
 
 I’ve been waiting for a new laptop for what feels like forever. I really thought Apple would announce the new MacBook Pros at [WWDC](https://developer.apple.com/wwdc/), but that didn’t happen. Now it sounds like they’ll be doing so later this week.

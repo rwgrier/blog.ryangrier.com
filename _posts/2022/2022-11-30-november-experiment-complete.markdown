@@ -2,8 +2,7 @@
 layout: post
 title: November Experiment - Complete
 date: '2022-11-30 23:00:07'
-tags:
-- blog
+categories: [blog]
 ---
 
 I did it. I published a blog post every day in November. Go me.

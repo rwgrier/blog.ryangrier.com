@@ -2,8 +2,7 @@
 layout: post
 title: Golden Retrievers
 date: '2022-11-21 01:41:41'
-tags:
-- life
+categories: [life]
 ---
 
 We have two Golden Retrievers. They are wonderful dogs. They are good with kids, patient with me, and always look like they are smiling.

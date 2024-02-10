@@ -2,8 +2,7 @@
 layout: post
 title: Fitbit Flex
 date: '2014-07-17 20:00:12'
-tags:
-- fitness
+categories: [fitness]
 ---
 
 I bought a [Fitbit Flex](https://www.fitbit.com/flex2) about a week ago. I really like it. My only complaint is that I keep looking at my wrist expecting to see a time.

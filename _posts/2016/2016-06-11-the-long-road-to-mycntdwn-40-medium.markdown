@@ -2,9 +2,7 @@
 layout: post
 title: The Long Road to MyCntdwn 4.0
 date: '2016-06-11 12:32:16'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 MyCntdwn 3.0 was released on the App Store on October, 13th 2013. That’s almost three years ago. That finally changed today. [MyCntdwn](https://itunes.apple.com/us/app/mycntdwn/id293970065?ls=1&mt=8) 4.0 has been released. I’ve been working on MyCntdwn 4.0 for a long time. I’ve scrapped near final builds two or three times and started over from scratch.

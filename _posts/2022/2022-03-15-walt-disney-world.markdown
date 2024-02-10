@@ -2,8 +2,7 @@
 layout: post
 title: Walt Disney World
 date: '2022-03-15 01:00:00'
-tags:
-- vacation
+categories: [vacation]
 ---
 
 This is the final blog post about our [trip to Florida]({%post_url /2022/2022-02-04-trip-to-florida %}) from January. This post is all about our trip to [Walt Disney World](https://disneyworld.disney.go.com/).

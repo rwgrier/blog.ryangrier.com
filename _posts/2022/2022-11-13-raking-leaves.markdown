@@ -2,8 +2,7 @@
 layout: post
 title: Raking Leaves
 date: '2022-11-13 18:33:51'
-tags:
-- life
+categories: [life]
 ---
 
 It's that time of year again. Time to rake up the leaves that have covered the lawn. I did the first pass at our lawn last weekend. It was a few hours of work which resulted in about 15 ([paper](https://www.homedepot.com/p/The-Home-Depot-30-Gal-Paper-Lawn-and-Leaf-Bags-5-Pack-HDLL1635/204743635)) bags of leaves.

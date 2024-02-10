@@ -2,8 +2,7 @@
 layout: post
 title: Currently Reading - November 2022
 date: '2022-11-19 02:02:42'
-tags:
-- books
+categories: [books]
 ---
 
 I typically read three books at a time. If I'm reading a comic book (or graphic novel) that will be the fourth book. I usually read one fiction book, one non-fiction book, and listen to a third book. I try not to have too many similar genres because the lines will start to blend in my head.

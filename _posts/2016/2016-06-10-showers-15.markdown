@@ -2,9 +2,7 @@
 layout: post
 title: Showers 1.5
 date: '2016-06-10 00:47:14'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 It’s been a while since I’ve published updates to any of my personal apps (side projects). I’ve finally done it. [Showers 1.5](https://itunes.apple.com/us/app/showers-white-noise-generator/id842747465?ls=1&mt=8) has shipped. Yay!

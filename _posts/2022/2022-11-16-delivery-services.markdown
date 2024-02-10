@@ -2,8 +2,7 @@
 layout: post
 title: Delivery Services
 date: '2022-11-16 00:24:25'
-tags:
-- life
+categories: [life]
 ---
 
 We have had a lot of packages delivered over the years. I'm sure you have too. With all of these deliveries, I have developed an internal rating of the various delivery services. I thought I would take some time to rank them here.

@@ -2,8 +2,7 @@
 layout: post
 title: November Experiment
 date: '2022-11-01 23:33:20'
-tags:
-- blog
+categories: [blog]
 ---
 
 I can't believe that it's already November. Where has this year gone? My daughter has informed me that the Christmas season starts today. I'm not sure I agree. I would like to celebrate Thanksgiving first.

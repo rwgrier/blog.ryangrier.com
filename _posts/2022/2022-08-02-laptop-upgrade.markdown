@@ -2,8 +2,7 @@
 layout: post
 title: Laptop Upgrade
 date: '2022-08-02 01:00:00'
-tags:
-- app-development
+categories: [app development]
 ---
 
 I’ve recently upgraded my laptop.

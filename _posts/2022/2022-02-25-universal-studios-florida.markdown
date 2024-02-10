@@ -2,8 +2,7 @@
 layout: post
 title: Universal Studios (Florida)
 date: '2022-02-25 01:30:00'
-tags:
-- vacation
+categories: [vacation]
 ---
 
 In January, we took a [trip to Florida]({%post_url /2022/2022-02-04-trip-to-florida %}). While we were there, we went to [Gatorland]({%post_url /2022/2022-02-11-gatorland %}) (which I’ve already written about), [Universal Studios](https://www.universalorlando.com/) and Walt Disney World.

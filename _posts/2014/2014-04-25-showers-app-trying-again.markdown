@@ -2,9 +2,7 @@
 layout: post
 title: Showers app - Trying Again
 date: '2014-04-25 16:30:03'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I’m giving Showers another shot.

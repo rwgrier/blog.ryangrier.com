@@ -2,8 +2,7 @@
 layout: post
 title: Trip to Florida
 date: '2022-02-04 00:30:00'
-tags:
-- vacation
+categories: [vacation]
 ---
 
 We recently took a trip to Florida. It was a mix of “business” and pleasure.

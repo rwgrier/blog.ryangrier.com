@@ -2,8 +2,7 @@
 layout: post
 title: Time For a Change
 date: '2021-08-23 00:30:00'
-tags:
-- work
+categories: [work]
 ---
 
 I’ve changed employers.

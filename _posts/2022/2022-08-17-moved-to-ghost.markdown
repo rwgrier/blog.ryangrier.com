@@ -2,8 +2,7 @@
 layout: post
 title: Moved From Jekyll to Ghost
 date: '2022-08-17 00:59:32'
-tags:
-- blog
+categories: [blog]
 ---
 
 I've recently made changes to this site. It was a lot of changes. This post goes through the changes I've made. These changes include the software running the site, where the site is hosted, and the domains I'm using.

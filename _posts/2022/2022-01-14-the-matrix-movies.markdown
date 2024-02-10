@@ -2,8 +2,7 @@
 layout: post
 title: The Matrix Movies
 date: '2022-01-14 01:00:00'
-tags:
-- movies
+categories: [movies]
 ---
 
 Over the Christmas break I rewatched the original [The Matrix](https://en.wikipedia.org/wiki/The_Matrix) trilogy. I haven’t seen these movies in a few years. I watched them in preparation to watch [The Matrix Resurrections](https://en.wikipedia.org/wiki/The_Matrix_Resurrections) on [HBO Max](https://www.hbomax.com/) earlier this week.

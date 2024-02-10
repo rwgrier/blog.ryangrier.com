@@ -2,8 +2,7 @@
 layout: post
 title: A Gym Membership
 date: '2016-10-19 16:30:12'
-tags:
-- fitness
+categories: [fitness]
 ---
 
 I recently joined a gym. I have never belonged to a gym before. Ok, that’s not quite true. I have belonged to a gym in college (where we goofed around in the racketball court) and the local YMCA while training for a triathlon (but I only swam there). This is the first time I’m a proper paying member at a gym.

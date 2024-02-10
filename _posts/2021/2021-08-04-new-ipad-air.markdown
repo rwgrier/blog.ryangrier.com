@@ -2,8 +2,7 @@
 layout: post
 title: New iPad Air
 date: '2021-08-04 00:00:00'
-tags:
-- ipad
+categories: [iPad]
 ---
 
 I recently bought a [2020 iPad Air](https://www.apple.com/ipad-air/). This new iPad Air is an upgraded from my [(2016) iPad Pro 9.7”](https://support.apple.com/kb/SP739?locale=en_US). That old iPad Pro was probably my favorite iOS device. I used it all the time. In the last few months, the iPad Pro was starting to slow down a bit. It was time for an upgrade.

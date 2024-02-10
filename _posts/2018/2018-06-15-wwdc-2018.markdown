@@ -2,9 +2,7 @@
 layout: post
 title: WWDC 2018
 date: '2018-06-15 05:00:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I was lucky enough to be able to attend [Apple’s Worldwide Developer Conference](https://developer.apple.com/wwdc/) this year. This was my fourth time attending the conference, but was my first time attending WWDC in San Jose.

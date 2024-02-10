@@ -2,8 +2,7 @@
 layout: post
 title: On Finishing The Expanse
 date: '2022-04-09 17:30:00'
-tags:
-- books
+categories: [books]
 ---
 
 I recently finished the final novel in The Expanse series by James S. A. Corey. This series was recommended to me by my friend [Andy Obusek](http://cleanswifter.com/).

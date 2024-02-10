@@ -2,9 +2,7 @@
 layout: post
 title: Spotify
 date: '2022-11-03 23:25:03'
-tags:
-- sonos
-- music
+categories: [sonos, music]
 ---
 
 I've been an [Apple Music](https://www.apple.com/apple-music/) user since the beta in 2015. Apple Music is not a perfect app or service. But I've grown used to it over the years.

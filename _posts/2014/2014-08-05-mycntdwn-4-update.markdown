@@ -2,9 +2,7 @@
 layout: post
 title: MyCntdwn 4 Update
 date: '2014-08-05 16:00:22'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I’m still working on MyCntdwn 4. I promise. Really. I’ve got a lot of tasks that I am slowly working through. I’m in the middle of making it a proper Universal app. I’m probably about 60% through this process. Some issues have come up while working on this, but I’ve been able to manage so far.

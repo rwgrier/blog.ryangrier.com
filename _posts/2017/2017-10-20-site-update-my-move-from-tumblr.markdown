@@ -2,8 +2,7 @@
 layout: post
 title: Site Update and My Move From Tumblr
 date: '2017-10-20 21:00:00'
-tags:
-- blog
+categories: [blog]
 ---
 
 It’s been a while since I’ve posted here. I’m sorry about that. I had thought I was going to start getting into a nice cadence for posting content.

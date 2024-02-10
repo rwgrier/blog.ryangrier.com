@@ -2,11 +2,7 @@
 layout: post
 title: Some of my favorite things - 2022 Edition
 date: '2022-12-30 02:02:02'
-tags:
-- movies
-- tv-shows
-- video-games
-- books
+categories: [video games, movies, tv shows, books]
 ---
 
 In 2022, I've consumed a lot of media. It was mostly books and tv shows.

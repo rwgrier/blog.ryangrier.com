@@ -2,8 +2,7 @@
 layout: post
 title: Stray
 date: '2022-12-22 01:50:37'
-tags:
-- video-games
+categories: [video games]
 ---
 
 I've been on vacation this week. We haven't gone anywhere, it's more of a [staycation](https://en.wikipedia.org/wiki/Staycation). I've been doing a bunch of chores around the house that have been on hold because of soccer and other obligations. I've also gotten a bit of time to relax and enjoy some things that I want to.

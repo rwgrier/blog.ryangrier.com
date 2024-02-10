@@ -2,8 +2,7 @@
 layout: post
 title: 'Books: March 2023 Update'
 date: '2023-03-11 22:00:30'
-tags:
-- books
+categories: [books]
 ---
 
 It's already March of 2023. Crazy huh? Time is flying by.

@@ -2,8 +2,7 @@
 layout: post
 title: Gaming Update
 date: '2018-06-01 05:00:00'
-tags:
-- video-games
+categories: [video games]
 ---
 
 It’s been a while since I’ve posted anything other than lists of books I’ve been reading here. So I thought I would post something slightly different.

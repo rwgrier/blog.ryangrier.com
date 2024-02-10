@@ -2,8 +2,7 @@
 layout: post
 title: Dual Kindle Lifestyle
 date: '2022-11-29 00:50:04'
-tags:
-- books
+categories: [books]
 ---
 
 I have two Amazon [Kindles](https://en.wikipedia.org/wiki/Amazon_Kindle).

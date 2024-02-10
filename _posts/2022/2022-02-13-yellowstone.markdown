@@ -2,8 +2,7 @@
 layout: post
 title: Yellowstone
 date: '2022-02-13 01:00:00'
-tags:
-- tv-shows
+categories: [tv shows]
 ---
 
 A few weeks ago, we were looking for a new show to watch. We heard a lot of recommendations for [Yellowstone](https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)).

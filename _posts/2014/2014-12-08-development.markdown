@@ -2,9 +2,7 @@
 layout: post
 title: Development
 date: '2014-12-08 17:30:13'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I haven’t done much personal development in the past few months. I think that may change soon. I’m getting an itch to get back to it. I’m not really sure what exactly I want to work on though.

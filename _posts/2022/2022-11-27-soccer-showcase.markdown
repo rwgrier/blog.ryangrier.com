@@ -2,9 +2,7 @@
 layout: post
 title: Soccer Showcase
 date: '2022-11-27 23:46:50'
-tags:
-- life
-- sportsball
+categories: [life, sportsball]
 ---
 
 We just got home from the [PDA Boys Invitational Showcase](https://pdasoccer.demosphere-secure.com/tournaments/pda-boys-college-showcase). It's a soccer showcase where college scouts/coaches can take a look at prospective players. This showcase took place in Zarephath, New Jersey.

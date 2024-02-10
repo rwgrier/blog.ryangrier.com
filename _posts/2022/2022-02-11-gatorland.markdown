@@ -2,8 +2,7 @@
 layout: post
 title: Gatorland
 date: '2022-02-11 00:30:00'
-tags:
-- vacation
+categories: [vacation]
 ---
 
 On our recent [trip to Florida]({%post_url /2022/2022-02-04-trip-to-florida %}), we went to a few theme parks. We had planned on Universal Studios and Walt Disney World.

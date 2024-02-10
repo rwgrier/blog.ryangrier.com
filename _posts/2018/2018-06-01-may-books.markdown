@@ -2,8 +2,7 @@
 layout: post
 title: May - Books
 date: '2018-06-01 01:00:00'
-tags:
-- books
+categories: [books]
 ---
 
 Look at me! I’m getting this post out _before_ the end of the month. Sure, it’s the last day of the month. But that’s better than a month or two late, right? Right?

@@ -2,9 +2,7 @@
 layout: post
 title: Side Projects
 date: '2016-05-21 14:31:04'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I’m a huge fan of having side projects. I tend to have a handful in some sort of development at any given time. I find that side projects help me alleviate some of the boredom that can come along with a normal job. Instead of just boring old fixing defects for weeks on end, I get an opportunity to flex my muscles a bit. Side projects also give me an opportunity to learn new technologies and skills.

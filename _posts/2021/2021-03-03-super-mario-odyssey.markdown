@@ -2,8 +2,7 @@
 layout: post
 title: Super Mario Odyssey
 date: '2021-03-03 00:30:00'
-tags:
-- video-games
+categories: [video games]
 ---
 
 <div class="py-3">

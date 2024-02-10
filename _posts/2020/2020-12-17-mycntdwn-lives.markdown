@@ -2,9 +2,7 @@
 layout: post
 title: MyCntdwn Lives?
 date: '2020-12-17 00:00:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 Over a year ago, I [removed MyCntdwn from the App Store]({%post_url /2019/2019-10-22-sad-day %}). But I’m not sure that’s the end of the story for MyCntdwn.

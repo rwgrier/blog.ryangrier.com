@@ -2,9 +2,7 @@
 layout: post
 title: Swift Labeled Statements
 date: '2016-06-29 18:00:41'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I’ll be honest. I didn’t know that Labeled Statements were a thing (let alone in Swift) until a few days ago. I discovered them while reading [Pro Swift](https://gumroad.com/l/proswift) by [Paul Hudson](https://twitter.com/twostraws) for the [Philly CocoaHeads Book Club](http://www.meetup.com/PhillyCocoaHeads/).

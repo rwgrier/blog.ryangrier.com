@@ -2,9 +2,7 @@
 layout: post
 title: From HomePod to Sonos
 date: '2021-10-05 01:30:00'
-tags:
-- homepod
-- sonos
+categories: [homepod, sonos]
 ---
 
 I was a pretty early adopter of [Apple’s HomePod](https://www.apple.com/homepod-2018/). I got one as soon as they were available (to me) in [early 2018]({%post_url /2018/2018-04-07-homepod %}).

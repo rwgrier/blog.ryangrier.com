@@ -2,8 +2,7 @@
 layout: post
 title: World Cup 2022
 date: '2022-11-26 17:00:43'
-tags:
-- sportsball
+categories: [sportsball]
 ---
 
 The World Cup is happening right now. It started last Sunday (Nov, 20th). It runs through December 18th.

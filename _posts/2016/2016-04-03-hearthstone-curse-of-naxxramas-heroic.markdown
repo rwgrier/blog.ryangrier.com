@@ -2,8 +2,7 @@
 layout: post
 title: Hearthstone: Curse of Naxxramas (Heroic)
 date: '2016-04-03 21:30:41'
-tags:
-- video-games
+categories: [video games]
 ---
 
 I’ve finally beaten the Hearthstone: Curse of Naxxramas adventure on Heroic. It’s been a huge pain in the butt, but I did it.

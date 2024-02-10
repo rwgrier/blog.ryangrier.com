@@ -2,8 +2,7 @@
 layout: post
 title: Homebrew Update
 date: '2015-01-22 17:00:22'
-tags:
-- homebrew
+categories: [homebrew]
 ---
 
 Just thought I would post an update about my adventures in home brewing.

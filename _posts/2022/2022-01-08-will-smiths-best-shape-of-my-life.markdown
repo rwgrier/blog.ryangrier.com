@@ -2,8 +2,7 @@
 layout: post
 title: Will Smith - "The Best Shape of My Life"
 date: '2022-01-08 15:00:00'
-tags:
-- tv-shows
+categories: [tv shows]
 ---
 
 I recently finished watching Will Smith’s “[The Best Shape of My Life](https://youtube.com/playlist?list=PLtb5OOwnB8RoCzJz57R0jrCUzYF6Yunw9)” 6-part docuseries on YouTube.

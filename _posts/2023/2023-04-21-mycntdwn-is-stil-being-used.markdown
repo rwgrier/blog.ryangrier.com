@@ -2,9 +2,7 @@
 layout: post
 title: MyCntdwn Is Still Being Used
 date: '2023-04-21 00:41:43'
-tags:
-- app-development
-- ios
+categories: [iOS, app development]
 ---
 
 In [late 2019]({%post_url /2019/2019-10-22-sad-day %}), I removed my first app, MyCntdwn, from the App Store. It was a sad day for me, but it was also time. I had been hemming and hawing on whether I wanted to continue to support MyCntdwn (and Showers: White Noise Generator). I finally decided to stop developing it and haven't looked back.

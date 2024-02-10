@@ -2,9 +2,7 @@
 layout: post
 title: Swift Guard Statement
 date: '2016-03-08 01:47:09'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 Swift 2.0 added the guard statement to the language. Guard is not new with Swift, it’s been around for a while in other programming languages, such as Haskell and Erlang.

@@ -2,8 +2,7 @@
 layout: post
 title: Twitter Account Deactivated
 date: '2022-12-16 01:09:45'
-tags:
-- life
+categories: [life]
 ---
 
 I [recently posted]({%post_url /2022/2022-11-11-on-twitter %}) about Twitter. At the time, I couldn't stop watching the slow-motion Twitter train wreck. It turns out, I got sick of it very shortly after publishing that post. 

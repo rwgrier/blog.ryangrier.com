@@ -2,9 +2,7 @@
 layout: post
 title: Setting up Charles Proxy on Apple TV (tvOS)
 date: '2016-09-28 22:23:46'
-tags:
-- tvos
-- app-development
+categories: [tvOS, app development]
 ---
 
  **_Update_** : This post is a little out of date. WillowTree has posted the most up to date version of this. Please check it out: [https://willowtreeapps.com/ideas/a-how-to-guide-for-apply-tv-setup-with-charles-proxy](https://willowtreeapps.com/ideas/a-how-to-guide-for-apply-tv-setup-with-charles-proxy).

@@ -2,8 +2,7 @@
 layout: post
 title: Fletch Book Series
 date: '2022-11-12 21:20:38'
-tags:
-- books
+categories: [books]
 ---
 
 I listen to the [MacBreak Weekly](https://twit.tv/shows/macbreak-weekly) podcast. [About a month ago](https://twit.tv/shows/macbreak-weekly/episodes/838?autostart=false), [Andy Ihnatko](https://twitter.com/ihnatko)'s pick of the week was the ["Fletch" book series](https://www.audible.com/series/The-Fletch-Audiobooks/B07CMMQ46L).

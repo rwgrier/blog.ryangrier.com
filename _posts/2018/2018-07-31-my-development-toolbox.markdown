@@ -2,9 +2,7 @@
 layout: post
 title: My Development Toolbox
 date: '2018-07-31 22:00:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 As a developer, there are a handful of tools that I use (almost) every day. I thought I would write a blog post about them.

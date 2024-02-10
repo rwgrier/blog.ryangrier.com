@@ -2,8 +2,7 @@
 layout: post
 title: 'Star Wars: Andor'
 date: '2022-11-30 00:53:10'
-tags:
-- tv-shows
+categories: [tv shows]
 ---
 
 I finished watching [Star Wars: Andor](https://disneyplusoriginals.disney.com/show/andor) yesterday. That is a good show.

@@ -2,8 +2,7 @@
 layout: post
 title: Philadelphia Union
 date: '2022-11-07 00:43:05'
-tags:
-- sportsball
+categories: [sportsball]
 ---
 
 Yesterday the [Philadelphia Union](https://www.philadelphiaunion.com) played [Los Angeles Football Club](https://www.lafc.com) in the [MLS](https://www.mlssoccer.com) Cup Final. It was a great game. Ultimately the Union lost in penalty kicks after a 3-3 draw.

@@ -2,8 +2,7 @@
 layout: post
 title: Transition
 date: '2016-08-04 00:51:08'
-tags:
-- work
+categories: [work]
 ---
 
 I haven’t written much lately. I’ve been in a bit of a transition.

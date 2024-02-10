@@ -2,9 +2,7 @@
 layout: post
 title: Showers app - Coming Soon
 date: '2014-03-25 16:30:12'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 Showers is my new app.

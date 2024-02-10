@@ -2,8 +2,7 @@
 layout: post
 title: Comixology
 date: '2022-11-22 00:45:46'
-tags:
-- books
+categories: [books]
 ---
 
 I read comic books. I have since I was younger. Heck, I even developed a comic book reader for iOS and tvOS for [DC Universe](https://www.dcuniverseinfinite.com) (now DC UNIVERSE INFINITE). It was essentially peak nerd for me.

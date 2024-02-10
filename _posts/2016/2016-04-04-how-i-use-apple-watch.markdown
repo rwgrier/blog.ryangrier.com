@@ -2,8 +2,7 @@
 layout: post
 title: How I Use Apple Watch
 date: '2016-04-04 12:52:07'
-tags:
-- apple-watch
+categories: [apple watch]
 ---
 
 When the Apple Watch was announced, I was pretty underwhelmed. I hadn’t worn a watch in years. I was wearing at FitBit to track my steps and was happy with it.

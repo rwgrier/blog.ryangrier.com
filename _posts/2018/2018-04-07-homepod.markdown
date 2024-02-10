@@ -2,8 +2,7 @@
 layout: post
 title: HomePod
 date: '2018-04-07 01:00:00'
-tags:
-- homepod
+categories: [homepod]
 ---
 
 I had mentioned in a [previous post]({%post_url /2018/2018-01-19-alexa-vs-google %}) that we’ve been playing with personal assistants like Google Home and Alexa. I also mentioned that I would probably be getting a [HomePod](https://www.apple.com/homepod/).

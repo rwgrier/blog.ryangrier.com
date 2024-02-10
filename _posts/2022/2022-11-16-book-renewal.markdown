@@ -2,8 +2,7 @@
 layout: post
 title: Book Renewal
 date: '2022-11-16 22:23:57'
-tags:
-- books
+categories: [books]
 ---
 
 Earlier this month, I mentioned that I had [borrowed a book from the library]({%post_url /2022/2022-11-02-borrowed %}). I was a little nervous about being able to finish the book within the two weeks I had.

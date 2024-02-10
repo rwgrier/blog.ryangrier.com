@@ -2,8 +2,7 @@
 layout: post
 title: September Lull
 date: '2022-09-26 00:52:35'
-tags:
-- life
+categories: [life]
 ---
 
 I have been in a lull lately.

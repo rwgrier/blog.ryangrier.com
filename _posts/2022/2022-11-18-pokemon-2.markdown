@@ -2,8 +2,7 @@
 layout: post
 title: Pokémon Scarlet and Violet
 date: '2022-11-18 00:53:29'
-tags:
-- video-games
+categories: [video games]
 ---
 
 [Pokémon Scarlet and Violet](https://scarletviolet.pokemon.com/en-us/) are released tomorrow. I don't think I'm going to be getting this one. Yet.

@@ -2,8 +2,7 @@
 layout: post
 title: World Series 2022
 date: '2022-11-08 00:34:46'
-tags:
-- sportsball
+categories: [sportsball]
 ---
 
 Can you believe the [Philadelphia Phillies](https://www.mlb.com/phillies) made it to the [World Series](https://en.wikipedia.org/wiki/World_Series)? Me either. I love that they made it. I've [said before]({%post_url /2022/2022-10-30-phillies %}) that every postseason game was free baseball and I still believe that.

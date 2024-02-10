@@ -2,8 +2,7 @@
 layout: post
 title: Astro's Playground
 date: '2022-06-16 01:00:00'
-tags:
-- video-games
+categories: [video games]
 ---
 
 I’m a fairly recent [PlayStation 5](https://www.playstation.com/en-us/ps5/) (PS5) owner (last Christmas). [Astro’s Playroom](https://www.playstation.com/en-us/games/astros-playroom/) is almost the perfect game. It’s free, easy, and short. It’s also delightful.

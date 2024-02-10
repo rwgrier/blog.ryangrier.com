@@ -2,8 +2,7 @@
 layout: post
 title: Hearthstone: The League of Explorers (Heroic)
 date: '2016-04-22 20:00:09'
-tags:
-- video-games
+categories: [video games]
 ---
 
 Last week I finished another Hearthstone adventure on Heroic. Previously, I had finished the [Curse of Naxxramas on Heroic]({%post_url /2016/2016-04-03-hearthstone-curse-of-naxxramas-heroic %}). I’m going through to finish them all.

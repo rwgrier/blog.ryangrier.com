@@ -2,8 +2,7 @@
 layout: post
 title: Mare of Eastown
 date: '2022-11-10 00:26:46'
-tags:
-- tv-shows
+categories: [tv shows]
 ---
 
 On Sunday night, we finished watching [Mare of Eastown](https://en.wikipedia.org/wiki/Mare_of_Easttown) on [HBO Max](https://www.hbomax.com). It was a good show.

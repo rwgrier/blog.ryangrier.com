@@ -2,9 +2,7 @@
 layout: post
 title: MyCntdwn 4
 date: '2014-07-08 16:00:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 About two weeks ago I started really working on MyCntdwn 4. I’ve had a few false starts over the last 6 months, but this time I mean it. I promise. Unless something new and shiny comes along.

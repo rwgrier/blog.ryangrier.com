@@ -2,8 +2,7 @@
 layout: post
 title: Books Read in January
 date: '2018-02-02 22:00:00'
-tags:
-- books
+categories: [books]
 ---
 
 Here are a list of books that I’ve read in January. It was more than I thought I would make it through, but there are a few caveats, I’ll explain below.

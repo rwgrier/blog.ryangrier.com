@@ -2,8 +2,7 @@
 layout: post
 title: On Twitter
 date: '2022-11-11 23:45:49'
-tags:
-- news
+categories: [news]
 ---
 
 I'm fairly sick of hearing about Elon Musk's [acquisition of Twitter](https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement). It's been a disaster. But I also can't stop watching.

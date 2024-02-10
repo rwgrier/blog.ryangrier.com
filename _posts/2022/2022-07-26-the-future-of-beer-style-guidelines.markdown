@@ -2,9 +2,7 @@
 layout: post
 title: The Future of Beer Style Guidelines
 date: '2022-07-26 23:30:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I shipped the first version of [Beer Style Guidelines](https://www.beerstyleguidelines.app/) on Jun 26, 2015.

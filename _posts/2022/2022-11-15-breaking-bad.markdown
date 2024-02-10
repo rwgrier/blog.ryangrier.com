@@ -2,8 +2,7 @@
 layout: post
 title: Breaking Bad
 date: '2022-11-15 00:46:30'
-tags:
-- tv-shows
+categories: [tv shows]
 ---
 
 We started watching [Breaking Bad](https://en.wikipedia.org/wiki/Breaking_Bad) last week. We finished season 2, episode 3 last night.

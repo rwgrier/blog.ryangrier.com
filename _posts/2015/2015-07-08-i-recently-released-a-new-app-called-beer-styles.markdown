@@ -2,9 +2,7 @@
 layout: post
 title: Beer Styles
 date: '2015-07-08 05:09:43'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I recently released a new app called [Beer Styles: BJCP 2015](https://itunes.apple.com/us/app/beer-style-guidelines/id998139111?mt=8). It’s an iOS Beer Style Guide for homebrewers and hmebrew beer judges. Some of the features include: searchable database and style favorites.

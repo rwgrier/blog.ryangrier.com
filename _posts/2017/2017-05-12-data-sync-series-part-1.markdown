@@ -2,9 +2,7 @@
 layout: post
 title: Data Sync Series - Part 1
 date: '2017-05-12 22:00:02'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I’ve been thinking about incorporating a data syncing component to my app MyCntdwn for a long time now. I have just never gotten around to it. It’s always been a daunting idea.

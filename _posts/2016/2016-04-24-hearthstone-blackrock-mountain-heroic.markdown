@@ -2,8 +2,7 @@
 layout: post
 title: 'Hearthstone: Blackrock Mountain (Heroic)'
 date: '2016-04-24 15:23:12'
-tags:
-- video-games
+categories: [video games]
 ---
 
 I finished it! Finally!

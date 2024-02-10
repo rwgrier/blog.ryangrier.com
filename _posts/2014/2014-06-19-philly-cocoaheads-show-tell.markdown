@@ -2,9 +2,7 @@
 layout: post
 title: Philly CocoaHeads Show & Tell
 date: '2014-06-19 17:33:38'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I presented at last week’s [Philly CocoaHeads](http://phillycocoa.org/) meet up. Presented is a bit strong. I showed off a few things to those in attendance. I was in front of the group for about 10 minutes.

@@ -2,8 +2,7 @@
 layout: post
 title: My Smashing Pumpkin Ale Disaster
 date: '2014-11-28 17:00:16'
-tags:
-- homebrew
+categories: [homebrew]
 ---
 
 My second batch of homebrew turned out to be bad. Last week, I ended up dumping over a case of [Smashing Pumpkin Ale](http://www.northernbrewer.com/smashing-pumpkin-ale-extract-kit). It just tasted bad. I have a number of theories on what may have gone wrong.

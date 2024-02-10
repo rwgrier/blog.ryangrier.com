@@ -2,8 +2,7 @@
 layout: post
 title: Books Read in March/April
 date: '2018-05-13 01:00:00'
-tags:
-- books
+categories: [books]
 ---
 
 I missed posting the books I read in March and am really late in posting about April. It’s pretty bad that it’s only May and I’m already slacking on my commitment to myself to be open about the books I’m reading this year. I hope this was just a blip.

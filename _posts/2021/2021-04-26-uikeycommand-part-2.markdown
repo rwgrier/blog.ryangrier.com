@@ -2,9 +2,7 @@
 layout: post
 title: 'UIKeyCommand — Part 2: Split View Controller'
 date: '2021-04-26 23:45:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 In the [first post]({%post_url /2021/2021-04-22-uikeycommand-part-1 %}) in this UIKeyCommands series, we went over the basics of UIKeyCommands and adding keyboard shortcuts to an app. Adding keyboard shortcuts to a real app can be a little more complicated, but not much.

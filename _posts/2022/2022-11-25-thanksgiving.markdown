@@ -2,8 +2,7 @@
 layout: post
 title: Thanksgiving
 date: '2022-11-25 02:09:34'
-tags:
-- life
+categories: [life]
 ---
 
 Thanksgiving is one of my favorite holidays. It always has been. And I'm not quite sure why. But I love it.

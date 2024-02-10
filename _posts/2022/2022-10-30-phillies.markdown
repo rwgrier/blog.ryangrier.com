@@ -2,8 +2,7 @@
 layout: post
 title: Philadelphia Phillies
 date: '2022-10-30 20:28:24'
-tags:
-- sportsball
+categories: [sportsball]
 ---
 
 The [Philadelphia Phillies](https://www.mlb.com/phillies) are in the [World Series](https://en.wikipedia.org/wiki/World_Series). They've had a great October.

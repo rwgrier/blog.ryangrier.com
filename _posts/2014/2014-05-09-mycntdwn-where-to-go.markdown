@@ -2,9 +2,7 @@
 layout: post
 title: MyCntdwn - Where to go?
 date: '2014-05-09 20:30:08'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 I’ve been contemplating a rather large update to MyCntdwn. I want to consolidate MyCntup and MyCntdown HD into MyCntdwn. I also want to add some syncing/backup solution to the app. The problem is, I just don’t know if it is worth it.

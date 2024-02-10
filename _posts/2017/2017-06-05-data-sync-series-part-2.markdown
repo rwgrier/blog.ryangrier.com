@@ -2,9 +2,7 @@
 layout: post
 title: Data Sync Series - Part 2
 date: '2017-06-05 21:30:28'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 This is the second blog post in my new blog series on data syncing in an app. You can read the first one [here]({%post_url /2017/2017-05-12-data-sync-series-part-1 %}). This took me a little longer than I wanted, I got busy with the kids and end of year school stuff for them. Sorry for any delay.

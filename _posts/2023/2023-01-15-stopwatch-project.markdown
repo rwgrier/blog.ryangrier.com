@@ -2,8 +2,7 @@
 layout: post
 title: Stopwatch Project
 date: '2023-01-15 19:14:32'
-tags:
-- app-development
+categories: [app development]
 ---
 
 I'm still looking for a new project to work on. Previously, I had mentioned that I built a [Podcast Downloader]({%post_url /2022/2022-11-23-podcast-downloader %}). That project will (still) likely never see the light of day.

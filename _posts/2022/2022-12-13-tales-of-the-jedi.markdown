@@ -2,8 +2,7 @@
 layout: post
 title: Tales of the Jedi
 date: '2022-12-13 02:48:08'
-tags:
-- tv-shows
+categories: [tv shows]
 ---
 
 I finished watching [_Tales of the Jedi_](https://www.disneyplus.com/series/star-wars-tales-of-the-jedi/7ZQbZDR64MvB) on [Disney+](https://www.disneyplus.com). It's a series of animated shorts from the Star Wars prequel era. The series provides more detail about both [Ahsoka Tano](https://en.wikipedia.org/wiki/Ahsoka_Tano) and [Count Dooku](https://en.wikipedia.org/wiki/Count_Dooku).

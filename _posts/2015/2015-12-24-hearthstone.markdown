@@ -2,8 +2,7 @@
 layout: post
 title: Hearthstone
 date: '2015-12-24 18:36:06'
-tags:
-- video-games
+categories: [video games]
 ---
 
 [Hearthstone](https://us.battle.net/hearthstone/en/) is an awesome game and I am terrible at it.

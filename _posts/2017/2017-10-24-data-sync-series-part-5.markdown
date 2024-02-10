@@ -2,9 +2,7 @@
 layout: post
 title: Data Sync Series - Part 5
 date: '2017-10-24 21:00:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 This is the fifth blog post in my new blog series on data syncing in an app. Links to all of the posts in the series are at the bottom of this post.

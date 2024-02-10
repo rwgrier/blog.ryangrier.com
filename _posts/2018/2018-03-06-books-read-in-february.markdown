@@ -2,8 +2,7 @@
 layout: post
 title: Books Read in February
 date: '2018-03-06 14:00:00'
-tags:
-- books
+categories: [books]
 ---
 
 Here are a list of books that I’ve read in February. I’m still going strong and reading plenty of books. My goal for the year was 20 and I’ve already read 17 books. If I keep this up, I’ll pass the goal next month.

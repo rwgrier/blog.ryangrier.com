@@ -2,8 +2,7 @@
 layout: post
 title: iOS 16 Lock Screen
 date: '2022-11-11 01:16:16'
-tags:
-- ios
+categories: [iOS]
 ---
 
 [iOS 16](https://www.apple.com/ios/ios-16/) introduced a reimagined Lock Screen. You can now do some really lovely [personalization](https://support.apple.com/guide/iphone/personalize-your-iphone-lock-screen-iph4d0e6c351/ios).

@@ -2,9 +2,7 @@
 layout: post
 title: 'UIKeyCommand — Part 1: The Basics'
 date: '2021-04-22 00:00:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 This post is the first in a series of three on UIKeyCommands on iOS. In this first post, we’ll go over `UIKeyCommand` at a high level.

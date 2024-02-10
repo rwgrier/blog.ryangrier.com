@@ -2,9 +2,7 @@
 layout: post
 title: WWDC
 date: '2022-06-13 00:20:00'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 WWDC 2022 was this past week and it was great. I didn’t get to watch enough sessions. There are a ton that I want to watch. I’ll slowly chip away over the next few months.

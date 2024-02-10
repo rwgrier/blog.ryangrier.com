@@ -2,10 +2,7 @@
 layout: post
 title: Beer Style Guidelines 2022.5
 date: '2022-08-22 00:45:32'
-tags:
-- app-development
-- ios
-- macos
+categories: [iOS, app development, macOS]
 ---
 
 [Beer Style Guidelines](https://www.beerstyleguidelines.app/) 2022.5 has been released.

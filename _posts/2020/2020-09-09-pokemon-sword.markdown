@@ -2,8 +2,7 @@
 layout: post
 title: Pokémon Sword
 date: '2020-09-09 01:00:00'
-tags:
-- video-games
+categories: [video games]
 ---
 
 This past weekend, I finished [Pokémon Sword](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sword_and_Shield). It was a good game. I bought the game at launch and haven’t really gotten into it until a few weeks ago.

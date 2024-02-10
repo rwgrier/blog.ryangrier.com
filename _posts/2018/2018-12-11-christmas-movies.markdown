@@ -2,8 +2,7 @@
 layout: post
 title: Christmas Movies
 date: '2018-12-11 00:00:00'
-tags:
-- christmas
+categories: [christmas]
 ---
 
 Around the holidays, our family has a list of movies that we like to watch. It’s a tradition that we’ve tried to keep for a few years now. It’s not always easy, but it’s one of the things we can all usually agree on.

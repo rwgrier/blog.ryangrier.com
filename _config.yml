@@ -7,8 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://blog.ryangrier.com
 
 # Build settings
-# theme: minima
-paginate: 500
+paginate: 5
 paginate_path: /:num/
 plugins:             
   - jekyll-paginate
@@ -16,6 +15,8 @@ plugins:
   
 permalink: pretty  
 permalink: /:year/:month/:day/:title/
+
+timezone: America/New_York
 
 # Exclude from processing.
 # The following items will not be processed, by default.

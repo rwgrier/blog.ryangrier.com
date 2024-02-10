@@ -2,11 +2,7 @@
 layout: post
 title: Some of my favorite things - 2021 Edition
 date: '2021-12-31 18:30:00'
-tags:
-- video-games
-- movies
-- books
-- tv-shows
+categories: [video games, movies, books, tv shows]
 ---
 
 I’ve consumed quite a bit of content in 2021. Here are some of my favorites. Not all of these were released in 2021, but it’s when I enjoyed them. So I’m going to count them. And since I’m making up the rules here, I’ll allow it.

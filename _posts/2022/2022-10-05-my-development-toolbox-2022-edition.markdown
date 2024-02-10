@@ -2,8 +2,7 @@
 layout: post
 title: My Development Toolbox (2022 Edition)
 date: '2022-10-05 23:28:46'
-tags:
-- app-development
+categories: [app development]
 ---
 
 In 2018, I wrote about [My Development Toolbox]({%post_url /2018/2018-07-31-my-development-toolbox %}). I thought I would revisit the subject and write an updated post.

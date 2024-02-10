@@ -2,8 +2,7 @@
 layout: post
 title: Home Brewing Again
 date: '2016-12-11 15:44:30'
-tags:
-- homebrew
+categories: [homebrew]
 ---
 
 It’s been over a year since I last made a homebrew beer. The last batch I brewed was last October.

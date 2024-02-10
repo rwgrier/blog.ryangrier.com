@@ -2,8 +2,7 @@
 layout: post
 title: 'The Legend of Zelda: A Link to the Past'
 date: '2022-05-12 00:00:00'
-tags:
-- video-games
+categories: [video games]
 ---
 
 I have a video game backlog that is about a mile long. So many new games to play, so what do I do? I play a game that came out in 1992, 30 years ago.

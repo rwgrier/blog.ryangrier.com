@@ -2,8 +2,7 @@
 layout: post
 title: Video Games and Gaming
 date: '2017-11-05 20:00:00'
-tags:
-- video-games
+categories: [video games]
 ---
 
 I’ve been playing video games for a long time. I can still remember when we got a [Nintendo Entertainment System (NES)](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System). My brothers and I played [Super Mario Brothers](https://en.wikipedia.org/wiki/Super_Mario_Bros.) and [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda) on it for hours.

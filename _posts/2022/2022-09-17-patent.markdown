@@ -2,9 +2,7 @@
 layout: post
 title: My First Patent
 date: '2022-09-17 13:36:32'
-tags:
-- work
-- life
+categories: [work, life]
 ---
 
 Ok. The patent isn't entirely mine. My name is on it though, along with some other really smart folks.

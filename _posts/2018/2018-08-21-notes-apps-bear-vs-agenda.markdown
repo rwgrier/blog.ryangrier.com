@@ -2,8 +2,7 @@
 layout: post
 title: 'Notes Apps: Bear vs Agenda'
 date: '2018-08-21 00:00:00'
-tags:
-- apps
+categories: [apps]
 ---
 
 Both [Bear](http://www.bear-writer.com/) and [Agenda](https://www.agenda.com/) are note taking apps for macOS and iOS. Both are great note taking apps that support my favorite markup syntax called [Markdown](https://daringfireball.net/projects/markdown/).

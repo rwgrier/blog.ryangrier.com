@@ -2,9 +2,7 @@
 layout: post
 title: Showers app - Coming Later
 date: '2014-04-05 14:16:27'
-tags:
-- ios
-- app-development
+categories: [iOS, app development]
 ---
 
 Well, this is embarrassing. Showers was to be my newest app. It has been rejected by Apple for being too simple. I tried the appeal process and the app is still rejected.

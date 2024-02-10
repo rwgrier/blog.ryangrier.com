@@ -2,8 +2,7 @@
 layout: post
 title: Currently Playing
 date: '2022-11-24 00:30:47'
-tags:
-- video-games
+categories: [video games]
 ---
 
 I'm not currently playing any video games.
