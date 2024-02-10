@@ -1,0 +1,25 @@
+---
+layout: post
+title: My First Patent
+date: '2022-09-17 13:36:32'
+categories: [work, life]
+---
+
+Ok. The patent isn't entirely mine. My name is on it though, along with some other really smart folks.
+
+Ten years ago, I worked at [Barclaycard](https://www.barclaycardus.com). While I was working there, we applied for a patent. That [patent was granted](https://patents.google.com/patent/US20130318592) last month (on August 23rd, 2022).
+
+I knew patent applications took a while, but I never thought it would be ten years.
+
+What the patent describes is a mechanism for credit card users to view some account details (balance, points, etc) without logging into their accounts. This is the kind of information many users want to see at a glance. If you want the nitty-gritty details, read the patent application.
+
+We developed the feature in a short amount of time. I believe it took us two weeks to build and ship the idea. I could be wrong here, this was ten years ago.
+
+It was a neat experience for me. A handful of us worked very closely in order to design, develop and then correctly document the entire process. It was truly a team effort.
+
+This feature is still being used in the Barclaycard app today. Check out the screenshot above.
+
+I'm not sure anyone who worked on this feature (and patent) still works for Barclaycard.
+
+We worked on a lot of neat features while working at Barclaycard. This is the only one we submitted a patent for. I'm glad it finally came through.
+

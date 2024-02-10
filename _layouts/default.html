@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+	{% include head.html %}
+	
+	<body>
+		{% include navigation.html %}
+		
+		<main>
+			<div class="blog-post py-5 px-5 col-md-8 mx-auto">
+				<div class="container">
+					{{ content }}
+				</div>
+			</div>
+		</main>
+	
+		{% include footer.html %}
+	</body>
+</html>

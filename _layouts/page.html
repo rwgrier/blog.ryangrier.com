@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="container">
+	<h2>{{ page.title }}</h2>
+    <p class="blog-post-meta">
+		{{ page.date | date: "%B %e, %Y" }}
+   </p>
+  
+	<article class="blog-post">
+	  {{ content }}
+	</article>
+</div>
