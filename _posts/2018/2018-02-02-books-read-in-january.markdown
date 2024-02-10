@@ -18,27 +18,27 @@ Here are a list of books that I’ve read in January. It was more than I thought
 - [Before the Awakening](https://www.goodreads.com/book/show/25319258-before-the-awakening)
 - [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)
 
-# I heard you like Star Wars
+## I heard you like Star Wars
 
 I’ve been on a Star Wars novel kick for almost a year now. I’m not sure why I’ve gone so deep into it, but I really like reading the content.
 
 Recently, I’ve also started reading Star Wars comic books (mostly volumes/graphic novels). I haven’t read individual issues in a long time. I prefer reading the entire story arc in a single convenient location.
 
-# How and why so many?
+## How and why so many?
 
 There are a lot of books on the list. When I grabbed a number of them (for my Kindle) for free, I hadn’t realized that they were more short stories rather than novels. Smuggler’s Run…, High Noon…, The Crimson Corsair…, and Before the Awakening were all more like short stories. I still read through them and enjoyed them.
 
-# Why are you including comic books?
+## Why are you including comic books?
 
 I dunno, why not. They aren’t individual issues, they are full length graphic novels. I don’t think I would include individual issues.
 
 When I was growing up, I read tons of comic books. I used to spend days with my friends at the local comic book store. We would read them, trade them, talk about them. It was a big part of my childhood. So why not include them.
 
-# What are you reading now?
+## What are you reading now?
 
 I currently have three books going. A Kindle book, audiobook and comic. I’m taking a short break from Star Wars content (other than the comic), but I expect that I’ll get back to them soon enough. You’ll just have to wait until next month to find out.
 
-# Most/Least favorites of the month?
+## Most/Least favorites of the month?
 
 My favorite book this month was Bloodline. It gave some nice insight on what happened in the Star Wars universe between the end of [Empire’s End](https://www.goodreads.com/book/show/30213123-empire-s-end) (post Return of the Jedi) and The Force Awakens.
 
