@@ -19,7 +19,7 @@ permalink: /:year/:month/:day/:title/
 timezone: America/New_York
 
 feed:
-  path: /rss
+  path: /feed.atom
 
 # Exclude from processing.
 # The following items will not be processed, by default.
