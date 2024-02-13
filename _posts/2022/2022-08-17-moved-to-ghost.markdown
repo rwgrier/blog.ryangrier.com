@@ -39,7 +39,7 @@ I ended up going with Ghost as the blogging software for the site. The editor is
 
 I've been hosting the site and blog using either [Netlify](https://www.netlify.com) or [Github Pages](https://pages.github.com/) for years.
 
-About a year and a half ago, I [moved the site]({%post_url /2021/2021-02-18-site-updates-feb-2021 %}) from Github Pages to Netlify. I forget why I moved. There may have been a Jekyll plugin that I wanted to use that Github Pages didn't support, but I could be wrong.
+About a year and a half ago, I moved the site from Github Pages to Netlify. I forget why I moved. There may have been a Jekyll plugin that I wanted to use that Github Pages didn't support, but I could be wrong.
 
 Once I decided on using Ghost, I had to decide where to host the site. I looked at a few options. [Ghost Pro](https://ghost.org/pricing/), Do it yourself (DYI) using [DigitalOcean](https://marketplace.digitalocean.com/apps/ghost) and [DigitalPress](https://www.digitalpress.blog).
 

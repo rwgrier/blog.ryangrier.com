@@ -18,6 +18,9 @@ permalink: /:year/:month/:day/:title/
 
 timezone: America/New_York
 
+feed:
+  path: /rss
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

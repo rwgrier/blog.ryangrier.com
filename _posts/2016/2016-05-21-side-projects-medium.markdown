@@ -19,11 +19,11 @@ The app was originally a small Java app. When I decided to distribute it, I used
 
 This version of the app was actually mentioned in some old Mac magazines. I may even have a few of the issues laying around somewhere.
 
-Fast forward to 2010/2011. I saw some reports that my app no longer worked with the latest version of Mac OS X. By that time, I had transitioned into a role of a fulltime iOS developer and decided to rewrite the app natively and submit to the AppStore.
+Fast forward to 2010/2011. I saw some reports that my app no longer worked with the latest version of Mac OS X. By that time, I had transitioned into a role of a full-time iOS developer and decided to rewrite the app natively and submit to the AppStore.
 
 I did exactly that. I rewrote the app in Obj-C and submitted it to Apple. They rejected the app. I don’t think that they liked me deleting these files that the Finder created. I submitted an appeal. I even found another app in the store that does almost the same thing. Apple called me to discuss the appeal, and let me know that they would never approve the app. I gave up and released the app via my website.
 
-The app has done moderatly well. It’s always been free, so I’ve never seen a penny from it. But it was a great learning experience. I’ve thought about providing an update to the app, but it just hasn’t been been a priority yet.
+The app has done moderately well. It’s always been free, so I’ve never seen a penny from it. But it was a great learning experience. I’ve thought about providing an update to the app, but it just hasn’t been been a priority yet.
 
 ## Voice360
 
@@ -53,7 +53,7 @@ I’m still working on MyCntdwn. I swear. I really am. I’ve just been in a bit
 
 Showers was by no means a financial success. I never thought it would really be one. It was an experimental app for me. I got to learn quite a bit more about AVPlayer, weighted random numbers, Apple Watch and more.
 
-This project was also initially rejected by Apple. The original UI was much simplier. The reviewer I got didn’t like that it was so simplistic. I added the settings/about screen and that seemed to make the review board happy.
+This project was also initially rejected by Apple. The original UI was much simpler. The reviewer I got didn’t like that it was so simplistic. I added the settings/about screen and that seemed to make the review board happy.
 
 I’ve made a few dollars from Showers. Last Summer, I decided to make the app free for everyone. It’s still got a handful of users. I think I’ll make an update to the app and fix a few of the crashing issues. I will probably end up removing the Apple Watch support. I never use the watch app, I don’t know if anyone else does. I may as well remove it.
 
@@ -77,5 +77,5 @@ There’s a common thread throughout all of these side projects. I’ve learned 
 
 I really like working on more experimental apps. I plan on doing more. If they are successful, I can continue to mature the apps. If they are failures, I often try to support them for a year or so and then move on to something new and exciting.
 
-Side projects have always given me an opportunity to learn new and exciting things. While they may not all succeed, they have been great learning opportunites. A side project being successful or not shouldn’t diswade you from trying. I believe everyone should work on a side project or two. You never know, that experimental side project you’ve been working on may change your career.
+Side projects have always given me an opportunity to learn new and exciting things. While they may not all succeed, they have been great learning opportunities. A side project being successful or not shouldn’t diswade you from trying. I believe everyone should work on a side project or two. You never know, that experimental side project you’ve been working on may change your career.
 
