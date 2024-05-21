@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beer Style Guidelines v2024.3 (macOS / iOS / iPadOS)
-date: '2024-03-11 12:00:00'
+date: '2024-05-20 20:00:00'
 categories: [iOS, macOS, app development]
 ---
 
